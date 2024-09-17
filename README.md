@@ -88,7 +88,7 @@ Wybór fundacji zamiast stowarzyszenia może wynikać z następujących powodów
 
 
 
-## Formy aktywności i kooperacji z mieszkańcami gminy
+## Formy aktywności i kooperacji z mieszkańcami gminy na rok 2025 i kolejne lata
 
 
 Oto przegląd form aktywności i kooperacji z mieszkańcami gminy, które mogą pomóc w rozwiązywaniu lokalnych problemów i zwiększaniu zaangażowania obywatelskiego:
@@ -170,6 +170,72 @@ Oto przegląd form aktywności i kooperacji z mieszkańcami gminy, które mogą 
 - Szkolenia i wsparcie dla osób chcących aktywnie działać na rzecz społeczności
 
 Skuteczna implementacja tych form aktywności i kooperacji wymaga otwartości władz gminy, zaangażowania mieszkańców oraz odpowiedniej komunikacji. Kluczowe jest dostosowanie tych działań do specyfiki lokalnej społeczności, jej potrzeb i możliwości. Ważne jest również, aby efekty tych działań były widoczne i komunikowane, co zachęci mieszkańców do dalszego zaangażowania.
+
+
+## Priorytety
+
+Aktywizacja rodziców dzieci uczęszczających do szkoły podstawowej w gminie jest kluczowa dla budowania silnej społeczności edukacyjnej.
+Warto eksperymentować z różnymi formami aktywizacji i być otwartym na sugestie samych rodziców, by pokazać, że ich zaangażowanie ma realny wpływ na jakość edukacji ich dzieci i funkcjonowanie szkoły.
+
+1. Stworzenie Rady Rodziców online:
+- Utworzenie platformy internetowej lub grupy w mediach społecznościowych dla rodziców
+- Regularne udostępnianie informacji o życiu szkoły i planowanych zmianach
+- Organizacja ankiet online dotyczących ważnych decyzji szkolnych
+
+2. Warsztaty i szkolenia dla rodziców:
+- Organizacja spotkań edukacyjnych na tematy związane z wychowaniem i edukacją
+- Zapraszanie ekspertów do prowadzenia warsztatów (np. psychologów dziecięcych, pedagogów)
+
+3. Dni otwarte i festyny szkolne:
+- Organizacja wydarzeń, gdzie rodzice mogą aktywnie uczestniczyć w życiu szkoły
+- Angażowanie rodziców w przygotowania i prowadzenie stoisk czy atrakcji
+
+4. Program mentoringu rodzicielskiego:
+- Łączenie doświadczonych rodziców z nowymi w systemie "buddy"
+- Ułatwianie adaptacji nowym rodzinom w społeczności szkolnej
+
+5. Projekty "Rodzice-Dzieciom":
+- Zachęcanie rodziców do dzielenia się swoimi umiejętnościami czy wiedzą zawodową z uczniami
+- Organizacja zajęć pozalekcyjnych prowadzonych przez chętnych rodziców
+
+6. Komitety tematyczne:
+- Tworzenie grup roboczych zajmujących się konkretnymi aspektami życia szkoły (np. bezpieczeństwo, zdrowe żywienie, ekologia)
+
+7. Newsletter dla rodziców:
+- Regularne wysyłanie informacji o życiu szkoły, sukcesach uczniów i nadchodzących wydarzeniach
+
+8. Dni kariery z udziałem rodziców:
+- Zapraszanie rodziców do prezentowania swoich zawodów uczniom
+
+9. Rodzicielski budżet partycypacyjny:
+- Umożliwienie rodzicom zgłaszania i głosowania nad małymi projektami do realizacji w szkole
+
+10. Wspólne akcje charytatywne:
+- Organizacja zbiórek czy imprez charytatywnych angażujących całe rodziny
+
+11. Kluby zainteresowań dla rodziców i dzieci:
+- Tworzenie przestrzeni do wspólnego rozwijania pasji (np. klub czytelniczy, sportowy)
+
+12. Regularne "kawy z dyrektorem":
+- Nieformalne spotkania z dyrekcją szkoły, umożliwiające swobodną wymianę myśli
+
+13. Szkolne grupy wsparcia:
+- Tworzenie grup dla rodziców dzieci z szczególnymi potrzebami edukacyjnymi
+
+14. Wolontariat rodzinny:
+- Organizacja akcji, w których rodziny mogą wspólnie pomagać społeczności lokalnej
+
+15. Konkursy rodzinne:
+- Organizacja zawodów czy quizów, w których uczestniczą całe rodziny
+
+
+### Kluczowe dla sukcesu tych inicjatyw jest:
+
+- Regularna komunikacja i informowanie o efektach działań
+- Elastyczność w planowaniu spotkań (uwzględnianie różnych godzin dla pracujących rodziców)
+- Docenianie i nagradzanie aktywności rodziców
+- Tworzenie przyjaznej, otwartej atmosfery zachęcającej do zaangażowania
+
 
 
 
