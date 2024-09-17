@@ -45,7 +45,7 @@ Bądźmy pro aktywni, bądźmy bliżej zmian i wpływajmy na nie!
 
 Skontaktujcie się z nami, aby dowiedzieć się więcej o tym, jak wspólnie możemy sobie pomóc i zaangażować się dla naszego dobra wspólnego i dla przyszłych pokoleń.
 Razem możemy sprawić, że samorząd gminy będzie jeszce lepiej zarządzany.
-Gdzie głos mieszkańca liczy się nie tylko co kilka lat, ale każdego dnia, by każdy miał wpływ na naszą przyszłość.
+Gdzie głos mieszkańca liczy się nie tylko co kilka lat, ale **każdego dnia**, by każdy miał wpływ na naszą przyszłość.
 
 
 ### Fundacja Lesok - razem, lepiej ... na pokolenia
@@ -348,12 +348,350 @@ g) Przedsiębiorcy:
 + [wariantpolski/partyzantka.pl: partyzantka.pl](https://github.com/wariantpolski/partyzantka.pl)
 + [wariantpolski/dobrowolnosc.pl: Co to jest dobrowolnosc? https://www.dobrowolnosc.pl/](https://github.com/wariantpolski/dobrowolnosc.pl)
 + [demogracja/kontrola-urzednikow](https://github.com/demogracja/kontrola-urzednikow)
-+ 
+ 
+
+## Utworzenie społeczności
+
+Znalezienie osób chętnych do aktywnego zaangażowania się w założenie i pracę na rzecz gminy poprzez Fundację Lesok wymaga strategicznego podejścia i wykorzystania różnych kanałów komunikacji.
+
+Kluczem do sukcesu jest konsekwentne działanie i budowanie zaufania w społeczności. 
+
+Niektórzy mogą chcieć pomagać regularnie, inni tylko okazjonalnie. 
+
+Trzeba stworzyć możliwości dla różnych form i poziomów zaangażowania.
+
+- Jasno komunikować cele i wartości fundacji
+- Pokazywać konkretne korzyści z zaangażowania
+- Być otwartym na pomysły i inicjatywy potencjalnych członków
+- Doceniać każdą formę zaangażowania, nawet najmniejszą
+- Tworzyć przyjazną atmosferę
+
+
+## Promocja i aktywizacja
+
+1. Spotkania informacyjne:
+- Zorganizuj otwarte spotkania w różnych częściach gminy Szemud
+- Przedstaw cele fundacji i korzyści płynące z zaangażowania
+- Zachęć do dyskusji i zbierz kontakty od zainteresowanych osób
+
+2. Media społecznościowe:
+- Stwórz profile fundacji na popularnych platformach (Facebook, Instagram)
+- Regularnie publikuj informacje o działaniach i planach
+- Wykorzystaj grupy lokalne do promocji fundacji
+
+3. Współpraca z lokalnymi liderami:
+- Zidentyfikuj aktywnych mieszkańców, liderów opinii
+- Zaproś ich do współpracy lub prośby o rekomendacje
+
+4. Partnerstwo z lokalnymi organizacjami:
+- Nawiąż kontakt z istniejącymi stowarzyszeniami, klubami, kołami gospodyń wiejskich
+- Zaproponuj współpracę i wymianę doświadczeń
+
+5. Promocja w lokalnych mediach:
+- Skontaktuj się z lokalnymi gazetami, radiostacjami
+- Zaproponuj artykuły lub wywiady na temat fundacji
+
+6. Ulotki i plakaty:
+- Rozwieszaj informacje w miejscach publicznych (sklepy, tablice ogłoszeń)
+- Rozdawaj ulotki podczas lokalnych wydarzeń
+
+7. Prezentacje w szkołach:
+- Organizuj prezentacje dla rodziców podczas zebrań szkolnych
+- Angażuj młodzież poprzez konkursy lub projekty edukacyjne
+
+8. Dni otwarte urzędu gminy:
+- Wykorzystaj oficjalne wydarzenia gminne do promocji fundacji
+- Pokaż, jak fundacja może współpracować z samorządem
+
+9. Networking na lokalnych wydarzeniach:
+- Bądź obecny na festynach, jarmarkach, imprezach sportowych
+- Przygotuj stoisko informacyjne fundacji
+
+10. Program ambasadorów:
+- Zachęć aktywnych członków do polecania fundacji znajomym
+- Stwórz system nagród lub uznania dla najaktywniejszych promotorów
+
+11. Webinary i szkolenia online:
+- Organizuj bezpłatne warsztaty na tematy ważne dla mieszkańców
+- Wykorzystaj je do przedstawienia misji fundacji
+
+12. Kampania "Poznaj swojego sąsiada":
+- Zachęcaj do lokalnych inicjatyw sąsiedzkich
+- Pokazuj, jak fundacja może wspierać takie działania
+
+13. Współpraca z lokalnymi przedsiębiorcami:
+- Zaangażuj firmy w działania CSR poprzez fundację
+- Oferuj wzajemną promocję
+
+14. Ankiety i badania potrzeb:
+- Przeprowadź badania wśród mieszkańców
+- Pokaż, jak fundacja odpowiada na zidentyfikowane potrzeby
+
+15. Program mentoringu obywatelskiego:
+- Zaproś doświadczonych działaczy do wspierania nowych członków
+- Stwórz ścieżkę rozwoju dla wolontariuszy
+
+
+
+## Finansowanie
+
+Aby znaleźć fundatorów i fundusze na działalność Fundacji Lesok, w tym na finansowanie ochrony prawnej dla osób poszkodowanych przez samorząd, należy podjąć wielotorowe działania.
+
+Kluczowe jest budowanie wiarygodności fundacji poprzez skuteczne działania i transparentność.
+
+Im bardziej widoczne będą efekty waszej pracy, tym łatwiej będzie pozyskiwać fundusze w przyszłości. 
+
+Pozyskiwanie funduszy to proces ciągły, wymagający konsekwencji i cierpliwości.
+
+Finansowanie ochrony prawnej wymaga szczególnej uwagi:
+- Jasno określ kryteria udzielania pomocy prawnej
+- Stwórz przejrzysty proces selekcji spraw
+- Rozważ współpracę z innymi organizacjami, aby dzielić koszty
+- Staraj się edukować społeczeństwo o prawach obywatelskich, co może zmniejszyć liczbę naruszeń w przyszłości
+  
+
+1. Identyfikacja potencjalnych źródeł finansowania:
+- Granty krajowe i unijne (np. Fundusz Inicjatyw Obywatelskich, EFS)
+- Prywatni darczyńcy i lokalni przedsiębiorcy
+- Crowdfunding
+- Składki członkowskie
+- Działalność gospodarcza fundacji (np. szkolenia, doradztwo)
+
+2. Przygotowanie solidnej dokumentacji:
+- Opracuj szczegółowy plan działania fundacji
+- Przygotuj profesjonalny biznesplan
+- Zbierz dokumentację przypadków naruszeń praw obywateli przez samorząd
+
+3. Nawiązanie kontaktów z organizacjami prawniczymi:
+- Współpracuj z kancelariami prawnymi oferującymi pro bono
+- Nawiąż kontakt z organizacjami zajmującymi się prawami człowieka (np. Helsińska Fundacja Praw Człowieka)
+
+4. Stworzenie sieci wsparcia:
+- Zaangażuj lokalnych liderów i osoby wpływowe
+- Poszukaj ambasadorów dla swojej sprawy
+
+5. Kampania crowdfundingowa:
+- Stwórz atrakcyjną kampanię na platformach takich jak zrzutka.pl czy siepomaga.pl
+- Przedstaw konkretne cele i pokaż, jak zebrane środki zostaną wykorzystane
+
+6. Aplikowanie o granty:
+- Monitoruj ogłoszenia o konkursach grantowych
+- Przygotuj profesjonalne wnioski grantowe
+
+7. Organizacja wydarzeń fundraisingowych:
+- Zorganizuj koncerty charytatywne, aukcje, biegi sponsorowane
+- Zaangażuj lokalną społeczność w zbiórkę funduszy
+
+8. Partnerstwa z firmami:
+- Zaproponuj lokalnym przedsiębiorcom współpracę w ramach ich działań CSR
+- Oferuj wzajemną promocję
+
+9. Utworzenie funduszu pomocy prawnej:
+- Stwórz specjalny fundusz dedykowany ochronie prawnej
+- Jasno komunikuj, jak środki są wykorzystywane
+
+10. Współpraca z mediami:
+- Nagłaśniaj przypadki naruszeń praw obywateli
+- Buduj świadomość społeczną dotyczącą potrzeby ochrony prawnej
+
+11. Networking:
+- Uczestnictwo w konferencjach i wydarzeniach branżowych
+- Nawiązywanie kontaktów z innymi fundacjami i organizacjami pozarządowymi
+
+12. Programy wolontariatu prawnego:
+- Zaangażuj studentów prawa i młodych prawników do pro bono
+
+13. Współpraca z uczelniami:
+- Nawiąż współpracę z wydziałami prawa uczelni wyższych
+- Zaproponuj staże i praktyki dla studentów
+
+14. Transparentność finansowa:
+- Regularnie publikuj raporty z wykorzystania środków
+- Buduj zaufanie poprzez pełną przejrzystość działań
+
+15. Strategie długoterminowe:
+- Rozważ stworzenie funduszu żelaznego (endowment)
+- Planuj działania fundraisingowe z wyprzedzeniem
+
+
+
+
+## Media
+
+Organizacja Podcastu i Kanału YouTube dla gminy to świetny sposób na dotarcie do szerszego grona odbiorców i zaangażowanie mieszkańców. 
+Kluczem do sukcesu jest regularność, konsekwencja i jakość treści. 
+Bądź otwarty na feedback i ciągle doskonalcie swoje treści, aby jak najlepiej służyć społeczności lokalnej.
+
+
+### Podcast:
+
+1. Planowanie:
+- format (wywiady, dyskusje panelowe, monologi)
+- częstotliwość wydań (np. co tydzień lub dwa tygodnie)
+
+2. Oprogramowanie:
+- Do nagrywania (np. Audacity, GarageBand)
+- Do edycji (np. Adobe Audition, Hindenburg)
+
+3. Hosting i dystrybucja:
+- platforma hostingową (np. Buzzsprout, Anchor)
+- podcast w Spotify, Apple Podcasts, Google Podcasts
+
+5. Tematy:
+- Wywiady z lokalnymi liderami i ciekawymi mieszkańcami
+- Dyskusje o bieżących sprawach gminy
+- Historie i legendy lokalne
+- Porady i informacje praktyczne dla mieszkańców
+
+
+### Kanał YouTube:
+
+1. Planowanie:
+- Ustal rodzaje treści (wywiady, relacje z wydarzeń, poradniki)
+- Stwórz harmonogram publikacji
+- Zaprojektuj identyfikację wizualną kanału
+
+2. Sprzęt:
+- Kamera (może być dobry smartfon na początek)
+- Mikrofon (np. kierunkowy do kamery)
+- Oświetlenie (proste zestawy LED)
+
+3. Oprogramowanie:
+- Do edycji wideo (np. DaVinci Resolve, Adobe Premiere Pro)
+- Do tworzenia grafik (np. Canva)
+
+4. Tematy:
+- Relacje z lokalnych wydarzeń
+- Wywiady z ciekawymi mieszkańcami
+- Prezentacje lokalnych inicjatyw i projektów
+- Wirtualne wycieczki po gminie
+
+
+### Jak zaangażować mieszkańców:
+
+1. Konkurs na współprowadzących:
+- Zorganizuj casting na prowadzących podcast/YouTube
+- Daj szansę różnym grupom wiekowym
+
+2. Program "Gość specjalny":
+- Zapraszaj mieszkańców jako ekspertów w różnych dziedzinach
+- Promuj lokalne talenty i pasjonatów
+
+3. Seria "Moja historia":
+- Zachęć mieszkańców do dzielenia się osobistymi historiami związanymi z gminą
+
+4. Crowdsourcing tematów:
+- Stwórz formularz online do zgłaszania pomysłów na odcinki
+- Organizuj regularne ankiety w mediach społecznościowych
+
+5. Warsztaty medialne:
+- Ucz mieszkańców podstaw tworzenia treści audio i wideo
+- Organizuj regularne spotkania dla zainteresowanych
+
+6. Program praktyk i staży:
+- Współpracuj ze szkołami, oferując uczniom możliwość zdobycia doświadczenia
+
+7. Współtworzenie treści:
+- Zachęcaj do przesyłania własnych nagrań (np. z wydarzeń)
+- Twórz compilacje z materiałów od mieszkańców
+
+8. Interakcja z widzami/słuchaczami:
+- Odpowiadaj na komentarze
+- Organizuj Q&A z gośćmi na żywo
+
+9. Promocja lokalna:
+- Rozwieszaj plakaty z QR kodami do kanału
+- Informuj o nowych odcinkach w lokalnych grupach na Facebooku
+
+10. Eventy na żywo:
+- Organizuj nagrania podcastu z publicznością
+- Transmituj ważne wydarzenia gminne na YouTube
+
+11. Seria "Poznaj swojego sąsiada":
+- Twórz krótkie profile mieszkańców i ich pasji
+
+12. Wyzwania i akcje społeczne:
+- Inicjuj akcje (np. sprzątanie gminy) i dokumentuj je
+
+13. Program mentoringu:
+- Łącz doświadczonych twórców z nowicjuszami
+
+14. Nagrody i wyróżnienia:
+- Doceniaj najbardziej aktywnych współtwórców
+
+15. Integracja z innymi mediami:
+- Promuj podcast i YouTube w lokalnej gazecie czy na stronie gminy
+
+
+
+## Długofalowe plany
+
+- szkoła liderów
+- szkoła przemawiania
+- kurs prawa i ekonomii
+- kurs zarządzania
+
+
+### Lider Akademia
+
+#### Programy Edukacyjne:
+
+#### Szkoła Liderów
+
+Wzmocnienie kompetencji liderów, poprawa umiejętności zarządzania zespołami, budowanie wizji i strategii oraz rozwijanie zdolności motywowania innych.
+
+#### Moduły:
+ - Sztuka Przywództwa
+ - Strategiczne Planowanie
+ - Komunikacja jako Klucz do Sukcesu
+ - Zarządzanie Konfliktami i Motywacja
+
+#### Szkoła Przemawiania
+
+Podniesienie umiejętności przemawiania publicznego, budowanie pewności siebie, techniki prezentacji oraz skuteczne przekazywanie informacji.
+
+#### Moduły:
+ - Wprowadzenie do Przemawiania
+ - Techniki Retoryki i Retoryka Współczesna
+ - Warsztaty Praktyczne z Przemówień
+ - Zarządzanie Stresem podczas Przemówień
+
+#### Kurs Prawa i Ekonomii
+
+Zapewnienie solidnych podstaw w zakresie prawa oraz ekonomii, niezbędnych do rozumienia mechanizmów rynkowych i prawnych oraz podejmowania świadomych decyzji biznesowych.
+
+#### Moduły:
+ - Wprowadzenie do Prawa: Podstawy i Zasady
+ - Podstawy Ekonomii: Mikroekonomia i Makroekonomia
+ - Prawo Gospodarcze i Handlowe
+ - Finanse i Realizacja Celów Ekonomicznych
+
+#### Kurs Zarządzania
+
+Wzmocnienie umiejętności zarządzania zasobami w lokalnych społecznościach, rozwijanie przedsiębiorczości oraz efektywne zarządzanie małym przedsiębiorstwem.
+
+#### Moduły:
+ - Zarządzanie Zasobami
+ - Przedsiębiorczość w Małych Społecznościach
+ - Finanse i Budżetowanie dla Małych Przedsiębiorstw
+ - Marketing i Rozwój Lokalny
+
+### Nasze wsparcie:
+
+- **Indywidualne Wsparcie:** Pomaga w organizacji nauki, przypomnienia o terminach, odpowiada na pytania dotyczące kursów.
+- **Rozwiązanie Problemów:** Asystent dostępny 24/7, wspiera w rozwiązywaniu problemów związanych z kursami.
+- **Personalizacja Nauki:** Na podstawie postępów, dostosowuje materiały i zasoby edukacyjne do indywidualnych potrzeb.
+- **Interaktywne Quizy i Testy:** Automatyczne sprawdzanie i dostosowanie pytań do poziomu użytkownika.
+
+### Dlaczego?
+- **Elastyczność:** Ucz się w dogodnym dla siebie tempie, z dowolnego miejsca.
+- **Jakość:** Programy stworzone przez ekspertów z danej dziedziny.
+- **Wsparcie:** Dedykowany asystent AI, który pomoże Ci osiągnąć Twoje cele edukacyjne.
+
+
+
 
 ##  Źródła
-
-
-
 
 
 
