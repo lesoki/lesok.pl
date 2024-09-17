@@ -3,8 +3,9 @@
 
 Drodzy mieszkańcy gminy Szemud!
 
-Czy czujecie czasem, że ważne decyzje dotyczące naszej gminy przechodzą obok Was niezauważone? 
-Czy macie wrażenie, że brakuje Wam informacji o planach samorządu, które mogą wpłynąć na Wasze codzienne życie? 
+- Czy czujecie czasem, że ważne decyzje dotyczące naszej gminy przechodzą obok Was niezauważone? 
+- Czy macie wrażenie, że brakuje Wam informacji o planach samorządu, które mogą wpłynąć na Wasze codzienne życie? 
+
 Jeśli tak, to nie jesteście sami. 
 
 Właśnie dlatego powstaje Fundacja Lesok - by być Waszym głosem, oczami i uszami w gminie Szemud.
