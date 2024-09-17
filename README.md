@@ -50,10 +50,7 @@ Gdzie głos mieszkańca liczy się nie tylko co kilka lat, ale każdego dnia, by
 
 ### Fundacja Lesok - razem, lepiej ... na pokolenia
 
-
----
-
-Fundacja Lesok jest odpowiedzią na problem dotyczy braku skutecznego przepływu informacji między samorządem a obywatelami i wynikającymi z tego powodu skutkami.
+Fundacja Lesok jest odpowiedzią na problemy związene z przepływem informacji między samorządem a obywatelami i wynikającymi z tego powodu skutkami.
 
 Mieszkańcy mają trudności ze śledzeniem bieżących wydarzeń i planów długoterminowych, co utrudnia im aktywne uczestnictwo w życiu lokalnym. 
 Dodatkowo, pojedyncze akcje protestacyjne czy interwencyjne wymagają dużego zaangażowania od zainteresowanych osób, a wiele kwestii dotyczy tylko niewielkiej części społeczności.
