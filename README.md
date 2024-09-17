@@ -18,7 +18,7 @@ Wybory odbywają się co kilka lat na wójta, radnego czy sołtysa a istotne dec
 
 ## Co oferujemy?
 
-1. **Edukację obywatelską** - pomożemy Wam zrozumieć, jak działa samorząd i jakie są Wasze prawa.
+1. **Edukację i doradztwo** - pomożemy Wam zrozumieć, jak działa samorząd i jakie są Wasze prawa.
 2. **Monitoring działań władz** - będziemy czujnie obserwować decyzje podejmowane w gminie i informować Was o nich.
 3. **Wsparcie w działaniu** - czy chcecie zaprotestować przeciwko niekorzystnej decyzji czy wesprzeć dobry projekt, pomożemy Wam się zorganizować.
 4. **Ochronę prawną** - jeśli poczujecie się pokrzywdzeni przez decyzje administracyjne, będziemy służyć radą i pomocą.
