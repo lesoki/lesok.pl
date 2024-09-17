@@ -28,14 +28,14 @@ Wybory odbywają się co kilka lat na wójta, radnego czy sołtysa a istotne dec
 ## Głos mieszkańców
 
 Fundacja Lesok to nie tylko organizacja - to społeczność aktywnych mieszkańców gminy Szemud.
+
 Razem możemy sprawić, że nasz głos będzie słyszany, a nasze prawa respektowane.
 
 Dołączcie do nas! 
 
 Wspólnie możemy:
-- Budować silną, świadomą społeczność lokalną
-- Chronić interesy mieszkańców
-- Aktywnie uczestniczyć w podejmowaniu decyzji
+- Budować silną, świadomą społeczność lokalną broniącą swoich interesów dla przyszłych pokoleń
+- Aktywnie uczestniczyć w kształtowaniu i podejmowaniu decyzji samorządu
 
 
 Fundacja Lesok to Wasza szansa na realny wpływ na życie w gminie Szemud. 
@@ -45,9 +45,10 @@ Bądźmy pro aktywni, bądźmy bliżej zmian i wpływajmy na nie!
 
 Skontaktujcie się z nami, aby dowiedzieć się więcej o tym, jak wspólnie możemy sobie pomóc i zaangażować się dla naszego dobra wspólnego i dla przyszłych pokoleń.
 Razem możemy sprawić, że samorząd gminy będzie jeszce lepiej zarządzany.
-Gdzie każdy głos się liczy nie tylko co kilka lat, ale kazdego dnia, by każdy mieszkaniec miał wpływ na swoją przyszłość.
+Gdzie głos mieszkańca liczy się nie tylko co kilka lat, ale każdego dnia, by każdy miał wpływ na naszą przyszłość.
 
-### Fundacja Lesok - razem, lepiej, na pokolenia!
+
+### Fundacja Lesok - razem, lepiej ... na pokolenia
 
 
 ---
