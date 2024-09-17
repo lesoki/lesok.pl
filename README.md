@@ -348,6 +348,7 @@ g) Przedsiębiorcy:
 + [wariantpolski/partyzantka.pl: partyzantka.pl](https://github.com/wariantpolski/partyzantka.pl)
 + [wariantpolski/dobrowolnosc.pl: Co to jest dobrowolnosc? https://www.dobrowolnosc.pl/](https://github.com/wariantpolski/dobrowolnosc.pl)
 + [demogracja/kontrola-urzednikow](https://github.com/demogracja/kontrola-urzednikow)
++ [rezydent.de](https://github.com/rezydent-de)
  
 
 ## Utworzenie społeczności
