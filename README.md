@@ -20,10 +20,9 @@ Wybory odbywają się co kilka lat na wójta, radnego czy sołtysa a istotne dec
 ![obraz](https://github.com/user-attachments/assets/f130ca57-553b-4322-9fd6-5245b9810e3a)
 ## Fundacja Lesok - dla pokoleń
 
-Fundacja Lesok skupia się na działaniach długoterminowych, środowiskowych lub społecznych.
-**"Fundacja Lesok"** kojarzy się z naturą, tradycją i lokalnym dziedzictwem Kaszub, "Lesok" sugeruje coś związanego z lasem, co dobrze koresponduje z wartościami przyrody, ochrony środowiska lub lokalnych zasobów
-Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność, sugerując działanie na rzecz przyszłych generacji. 
-W formie podkładki do napojów z dodatkiem aromatu o zapachu leśnego runa i drzew iglastych
+**"Fundacja Lesok"** skupia się na ochronie tradycji i lokalnego dziedzictwa Kaszub.
+Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność, działanie na rzecz przyszłych generacji. 
+W ramach promocji będą dostępne podkładki do napojów z dodatkiem aromatu o zapachu leśnego runa i drzew iglastych.
 
 
 
