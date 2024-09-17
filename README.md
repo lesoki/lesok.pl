@@ -625,7 +625,8 @@ Bądź otwarty na feedback i ciągle doskonalcie swoje treści, aby jak najlepie
 - kurs prawa i ekonomii
 - kurs zarządzania
 
-### Programy Edukacyjne:
+### Programy Edukacyjne Akademii Lesok
+
 
 #### Szkoła Liderów
 
