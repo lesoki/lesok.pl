@@ -23,7 +23,7 @@ Wybory odbywają się co kilka lat na wójta, radnego czy sołtysa a istotne dec
 Fundacja Lesok skupia się na działaniach długoterminowych, środowiskowych lub społecznych.
 **"Fundacja Lesok"** kojarzy się z naturą, tradycją i lokalnym dziedzictwem Kaszub, "Lesok" sugeruje coś związanego z lasem, co dobrze koresponduje z wartościami przyrody, ochrony środowiska lub lokalnych zasobów
 Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność, sugerując działanie na rzecz przyszłych generacji. 
-
+W formie podkładki do napojów z dodatkiem aromatu o zapachu leśnego runa i drzew iglastych
 
 
 
