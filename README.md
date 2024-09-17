@@ -28,16 +28,17 @@ W ramach promocji będą dostępne podkładki do napojów z dodatkiem aromatu o 
 
 ## Co oferujemy?
 
-1. **Edukację i doradztwo** - pomożemy Wam zrozumieć, jak działa samorząd i jakie są Wasze prawa.
-2. **Monitoring działań władz** - będziemy informować o każdej decyzji urzędników, analizować i informować Was o nich.
-3. **Wsparcie w działaniu** - czy chcecie zaprotestować przeciwko niekorzystnej decyzji czy wesprzeć dobry projekt, pomożemy Wam się zorganizować.
-4. **Ochronę prawną** - jeśli poczujecie się pokrzywdzeni przez decyzje administracyjne, będziemy służyć radą i pomocą.
-5. **Mediacje** - w przypadku konfliktów między mieszkańcami a urzędnikami, będziemy dążyć do sprawiedliwych rozwiązań.
+**Monitoring działań władz** - będziemy informować o każdej decyzji urzędników, analizować i informować Was o nich.
+**Wsparcie w działaniu** - czy chcecie zaprotestować przeciwko niekorzystnej decyzji czy wesprzeć dobry projekt, pomożemy Wam się zorganizować.
+**Edukację i doradztwo** - pomożemy Wam zrozumieć, jak działa samorząd i jakie są Wasze prawa. 
+**Ochronę prawną** - jeśli poczujecie się pokrzywdzeni przez decyzje administracyjne, będziemy służyć radą i pomocą.
+**Mediacje** - w przypadku konfliktów między mieszkańcami a urzędnikami, będziemy dążyć do sprawiedliwych rozwiązań.
+
 
 
 ## Głos mieszkańców
 
-Fundacja Lesok to nie tylko organizacja - to społeczność aktywnych mieszkańców gminy Szemud.
+Fundacja Lesok to nie tylko organizacja ale przede wszystkim społeczność aktywnych mieszkańców gminy Szemud.
 
 Razem możemy sprawić, że nasz głos będzie słyszany, a nasze prawa respektowane.
 
@@ -48,9 +49,11 @@ Wspólnie możemy:
 - Aktywnie uczestniczyć w kształtowaniu i podejmowaniu decyzji samorządu
 
 
-Fundacja Lesok to Wasza szansa na realny wpływ na życie w gminie Szemud. 
-Nie czekajcie, aż ktoś inny zadecyduje za Was. 
-Bądźmy pro aktywni, bądźmy bliżej zmian i wpływajmy na nie!
+Fundacja Lesok to szansa na realny wpływ na życie w gminie Szemud. 
+Nie czekajmy, aż ktoś inny zadecyduje za Was:
++ bądźmy pro aktywni
++ bądźmy bliżej zmian
++ wpływajmy na decyzje samorządu
 
 
 Skontaktujcie się z nami, aby dowiedzieć się więcej o tym, jak wspólnie możemy sobie pomóc i zaangażować się dla naszego dobra wspólnego i dla przyszłych pokoleń.
