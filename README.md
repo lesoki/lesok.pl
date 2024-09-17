@@ -37,6 +37,104 @@ Wybór fundacji zamiast stowarzyszenia może wynikać z następujących powodów
 
 
 
+## Cel działania fundacji
+
+W celu zwiększenia jakości życia mieszkańców i udrożeninia komunikacji w kontekście aktualnych i przyszłych potrzeb mieszkańców.
+
+Ważne jest, aby władze lokalne i organizacje pozarządowe współpracowały w celu identyfikacji i rozwiązywania tych problemów, uwzględniając specyficzne potrzeby różnych grup mieszkańców.
+
+Oto przegląd głównych problemów dotyczących obywateli w gminach wiejskich oraz specyficznych grup na obszarach wiejskich:
+
+1. Infrastruktura:
+- Słaby stan dróg lokalnych
+- Brak lub niewystarczająca kanalizacja
+- Ograniczony dostęp do sieci wodociągowej
+- Niedostateczne oświetlenie ulic
+
+2. Transport publiczny:
+- Rzadkie połączenia autobusowe lub ich brak
+- Trudności w dotarciu do większych miast
+- Izolacja osób nieposiadających własnego samochodu
+
+3. Służba zdrowia:
+- Ograniczony dostęp do lekarzy specjalistów
+- Odległe szpitale i przychodnie
+- Długi czas oczekiwania na karetkę w nagłych przypadkach
+
+4. Edukacja:
+- Zamykanie małych szkół wiejskich
+- Konieczność dojazdów dzieci do odległych placówek edukacyjnych
+- Ograniczona oferta zajęć pozalekcyjnych
+
+5. Rynek pracy:
+- Małe możliwości zatrudnienia poza rolnictwem
+- Niskie zarobki
+- Konieczność dojazdów do pracy w miastach
+
+6. Dostęp do kultury i rozrywki:
+- Brak kin, teatrów, muzeów
+- Ograniczona oferta imprez kulturalnych
+- Niewiele miejsc spotkań dla młodzieży i seniorów
+
+7. Problemy środowiskowe:
+- Zanieczyszczenie powietrza (np. przez piece węglowe)
+- Nielegalne wysypiska śmieci
+- Konflikty związane z intensywnym rolnictwem (np. odory, pestycydy)
+
+8. Cyfryzacja:
+- Słaby dostęp do internetu szerokopasmowego
+- Wykluczenie cyfrowe, szczególnie wśród starszych mieszkańców
+
+9. Problemy społeczne:
+- Starzenie się społeczności wiejskich
+- Odpływ młodych ludzi do miast
+- Izolacja społeczna, szczególnie wśród seniorów
+- Ukryte bezrobocie
+
+10. Rolnictwo:
+- Trudności ekonomiczne małych gospodarstw
+- Problemy z dostosowaniem się do norm UE
+- Zmienność cen produktów rolnych
+
+11. Problemy specyficznych grup:
+
+a) Seniorzy:
+- Ograniczony dostęp do opieki geriatrycznej
+- Trudności w dotarciu do lekarzy i aptek
+- Samotność i izolacja społeczna
+
+b) Młodzież:
+- Brak perspektyw zawodowych na miejscu
+- Ograniczone możliwości rozwoju zainteresowań
+- Trudności w dostępie do edukacji wyższej
+
+c) Kobiety:
+- Ograniczone możliwości zatrudnienia poza gospodarstwem
+- Trudności w godzeniu pracy z opieką nad rodziną
+- Mniejszy dostęp do opieki ginekologicznej
+
+d) Osoby z niepełnosprawnościami:
+- Bariery architektoniczne
+- Ograniczony dostęp do rehabilitacji
+- Trudności w znalezieniu zatrudnienia
+
+e) Mniejszości etniczne lub narodowe:
+- Ryzyko dyskryminacji
+- Trudności w zachowaniu własnej kultury i tradycji
+- Problemy z integracją
+
+f) Rolnicy:
+- Biurokracja związana z dotacjami i regulacjami UE
+- Trudności w konkurowaniu z dużymi gospodarstwami
+- Problemy z sukcesją gospodarstw
+
+g) Przedsiębiorcy:
+- Ograniczony rynek lokalny
+- Trudności w znalezieniu wykwalifikowanych pracowników
+- Problemy z dostępem do finansowania
+
+
+
 
 
 
