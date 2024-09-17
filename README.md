@@ -547,20 +547,14 @@ Bądź otwarty na feedback i ciągle doskonalcie swoje treści, aby jak najlepie
 ### Kanał YouTube:
 
 1. Planowanie:
-- Ustal rodzaje treści (wywiady, relacje z wydarzeń, poradniki)
-- Stwórz harmonogram publikacji
-- Zaprojektuj identyfikację wizualną kanału
+- rodzaje treści (wywiady, relacje z wydarzeń, poradniki)
+- harmonogram publikacji
 
-2. Sprzęt:
-- Kamera (może być dobry smartfon na początek)
-- Mikrofon (np. kierunkowy do kamery)
-- Oświetlenie (proste zestawy LED)
-
-3. Oprogramowanie:
+2. Oprogramowanie:
 - Do edycji wideo (np. DaVinci Resolve, Adobe Premiere Pro)
 - Do tworzenia grafik (np. Canva)
 
-4. Tematy:
+3. Tematy:
 - Relacje z lokalnych wydarzeń
 - Wywiady z ciekawymi mieszkańcami
 - Prezentacje lokalnych inicjatyw i projektów
@@ -631,10 +625,7 @@ Bądź otwarty na feedback i ciągle doskonalcie swoje treści, aby jak najlepie
 - kurs prawa i ekonomii
 - kurs zarządzania
 
-
-### Lider Akademia
-
-#### Programy Edukacyjne:
+### Programy Edukacyjne:
 
 #### Szkoła Liderów
 
