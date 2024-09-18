@@ -34,7 +34,10 @@ Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność
 **Ochronę prawną** - jeśli poczujecie się pokrzywdzeni przez decyzje administracyjne, będziemy służyć radą i pomocą.
 **Mediacje** - w przypadku konfliktów między mieszkańcami a urzędnikami, będziemy dążyć do sprawiedliwych rozwiązań.
 
-
+Strategia i Kierunek działań:
+```
+Informacja -> Edukacja -> Wsparcie -> Ochrona
+```
 
 ## Głos mieszkańców
 
@@ -546,6 +549,81 @@ Trzeba stworzyć możliwości dla różnych form i poziomów zaangażowania.
 15. Program mentoringu obywatelskiego:
 - Zaproś doświadczonych działaczy do wspierania nowych członków
 - Stwórz ścieżkę rozwoju dla wolontariuszy
+
+
+## Informacja 
+
+Dla mieszkańca, który nie korzysta z mediów społecznościowych, ale chciałby mieć dostęp do wszystkich interesujących go lokalnych informacji, 
+można zaproponować kilka rozwiązań. 
+
+1. Biuletyn informacyjny:
+- Stwórz regularny biuletyn drukowany (np. miesięczny lub dwutygodniowy)
+- Zawieraj w nim najważniejsze informacje lokalne, streszczenia dyskusji z mediów społecznościowych
+- Dystrybuuj go poprzez punkty publiczne (biblioteki, sklepy, urzędy)
+
+2. System powiadomień SMS:
+- Uruchom system, w którym mieszkańcy mogą zapisać się na otrzymywanie krótkich informacji SMS
+- Grupuj wiadomości tematycznie, pozwalając na wybór interesujących kategorii
+
+3. Infolinia telefoniczna:
+- Stwórz lokalną infolinię, gdzie mieszkańcy mogą zadzwonić i posłuchać najnowszych informacji
+- Aktualizuj nagrania regularnie, np. codziennie lub co kilka dni
+
+4. Tablice informacyjne:
+- Umieść w kluczowych punktach gminy tablice informacyjne
+- Regularnie aktualizuj je o najważniejsze wiadomości i ogłoszenia
+
+5. Lokalna gazeta:
+- Jeśli nie istnieje, rozważ stworzenie lokalnej gazety (może być to rozszerzenie biuletynu)
+- Zawieraj w niej zarówno bieżące informacje, jak i podsumowania z mediów społecznościowych
+
+6. Radio lokalne:
+- Uruchom małą stację radiową lub podcast dostępny przez telefon
+- Nadawaj codzienne lub cotygodniowe podsumowania lokalnych wydarzeń
+
+7. Punkt informacyjny:
+- Otwórz fizyczny punkt informacyjny, gdzie mieszkańcy mogą przyjść i zapytać o aktualne sprawy
+- Udostępniaj tam wydruki najważniejszych informacji
+
+8. Biblioteka jako centrum informacji:
+- Współpracuj z lokalnymi bibliotekami, aby stały się centrami informacji lokalnej
+- Udostępniaj tam komputery z dostępem do lokalnych stron internetowych
+
+9. System "Przyjazny sąsiad":
+- Stwórz sieć wolontariuszy, którzy będą regularnie informować swoich sąsiadów o ważnych sprawach
+- Szczególnie pomocne dla osób starszych lub niepełnosprawnych
+
+10. Newslettery e-mailowe:
+- Dla osób korzystających z internetu, ale nie z mediów społecznościowych, oferuj newsletter e-mailowy
+- Pozwól na personalizację treści według zainteresowań
+
+11. Plakaty i ulotki:
+- Regularnie rozwieszaj plakaty z najważniejszymi informacjami w często odwiedzanych miejscach
+- Dystrybuuj ulotki informacyjne do skrzynek pocztowych
+
+12. Spotkania informacyjne:
+- Organizuj regularne spotkania otwarte, gdzie mieszkańcy mogą przyjść i posłuchać o bieżących sprawach
+- Daj możliwość zadawania pytań i dyskusji
+
+13. Ekrany informacyjne:
+- Umieść w kluczowych punktach gminy (np. urząd, przychodnia) ekrany wyświetlające aktualne informacje
+- Aktualizuj je w czasie rzeczywistym
+
+14. Współpraca z lokalnymi instytucjami:
+- Poproś szkoły, kościoły, kluby sportowe o pomoc w dystrybucji ważnych informacji
+
+15. Personalizowany pakiet informacyjny:
+- Oferuj możliwość zamówienia spersonalizowanego pakietu informacji dostarczanego do domu
+- Dostosuj częstotliwość i formę (druk, CD z nagraniami) do preferencji mieszkańca
+
+### Korzyści dla mieszkańców:
+
+- Różnorodność kanałów, aby dotrzeć do różnych grup mieszkańców.
+- Regularność, stałe aktualizacje, niezależnie od wybranego medium.
+- Dostępność, w tym osób starszych czy niepełnosprawnych.
+- Przejrzystość, informacje w prosty i zrozumiały sposób.
+- Feedback, jakie są preferowane formy komunikacji?
+
 
 
 
