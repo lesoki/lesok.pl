@@ -38,7 +38,7 @@ Informacja -> Edukacja -> Wsparcie -> Ochrona
 
 Fundacja Lesok może przynieść szereg konkretnych korzyści dla społeczności gminy Szemud, w tym:
 
-1. **Udoskonalenie komunikacji**: Fundacja działa jako pośrednik między mieszkańcami a samorządem, rządem, policją, strażą, co poprawia dostęp do informacji o decyzjach i planach gminy. Dzięki temu mieszkańcy będą lepiej poinformowani o sprawach lokalnych, co zwiększy ich zaangażowanie w życie społeczności.
+1. **Udoskonalenie komunikacji**: Fundacja będzie działać jako pośrednik między mieszkańcami a samorządem, rządem, policją, strażą, jednostaki podlegającymi władzy, co poprawi dostęp do informacji o decyzjach i planach gminy. Dzięki temu mieszkańcy będą lepiej poinformowani o sprawach lokalnych, co zwiększy ich zaangażowanie w życie społeczności.
 
 2. **Edukacja obywatelska**: Fundacja oferuje programy edukacyjne dotyczące praw obywatelskich oraz funkcjonowania samorządu. Mieszkańcy będą mogli lepiej zrozumieć swoje prawa i obowiązki, co sprzyja aktywności obywatelskiej.
 
@@ -48,9 +48,9 @@ Fundacja Lesok może przynieść szereg konkretnych korzyści dla społeczności
 
 5. **Mediacja w konfliktach**: Fundacja może pełnić rolę mediatora w sporach między mieszkańcami a urzędnikami, co przyczyni się do rozwiązywania problemów w sposób konstruktywny.
 
-6. **Wzmacnianie więzi społecznych**: Organizacja i wspieranie wydarzeń kulturalnych i edukacyjnych sprzyja integracji mieszkańców oraz budowaniu silnej społeczności lokalnej.
+6. **Wzmacnianie więzi społecznych**: Poprzez organizację i wsparcie wydarzeń kulturalnych i edukacyjnych sprzyjąc integracji mieszkańców oraz budowaniu silnej społeczności lokalnej.
 
-7. **Ochrona lokalnego dziedzictwa**: Fundacja koncentruje się na ochronie tradycji i lokalnego dziedzictwa Kaszub, co wspiera rozwój tożsamości regionalnej i kulturowej.
+7. **Ochrona lokalnego dziedzictwa**: Poprzez promocję tradycji i lokalnego dziedzictwa Kaszub, by codziennie wspierać rozwój tożsamości regionalnej i kulturowej.
 
 Te działania mogą znacząco wpłynąć na jakość życia mieszkańców, zwiększając ich poczucie przynależności i aktywności w lokalnej społeczności.
 
