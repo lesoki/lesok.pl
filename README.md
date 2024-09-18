@@ -28,11 +28,11 @@ Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność
 
 ## Co oferujemy?
 
-**Monitoring działań władz** - będziemy informować o każdej decyzji urzędników, analizować i informować Was o nich.
-**Wsparcie w działaniu** - czy chcecie zaprotestować przeciwko niekorzystnej decyzji czy wesprzeć dobry projekt, pomożemy Wam się zorganizować.
-**Edukację i doradztwo** - pomożemy Wam zrozumieć, jak działa samorząd i jakie są Wasze prawa. 
-**Ochronę prawną** - jeśli poczujecie się pokrzywdzeni przez decyzje administracyjne, będziemy służyć radą i pomocą.
-**Mediacje** - w przypadku konfliktów między mieszkańcami a urzędnikami, będziemy dążyć do sprawiedliwych rozwiązań.
+- **Monitoring działań władz** - będziemy informować o każdej decyzji urzędników, analizować i informować Was o nich.
+- **Wsparcie w działaniu** - czy chcecie zaprotestować przeciwko niekorzystnej decyzji czy wesprzeć dobry projekt, pomożemy Wam się zorganizować.
+- **Edukację i doradztwo** - pomożemy Wam zrozumieć, jak działa samorząd i jakie są Wasze prawa. 
+- **Ochronę prawną** - jeśli poczujecie się pokrzywdzeni przez decyzje administracyjne, będziemy służyć radą i pomocą.
+- **Mediacje** - w przypadku konfliktów między mieszkańcami a urzędnikami, będziemy dążyć do sprawiedliwych rozwiązań.
 
 Strategia i Kierunek działań:
 ```
