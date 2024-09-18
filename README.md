@@ -931,18 +931,22 @@ Bądź otwarty na feedback i ciągle doskonalcie swoje treści, aby jak najlepie
 - Promuj podcast i YouTube w lokalnej gazecie czy na stronie gminy
 
 
+## Edukacja
 
-## Długofalowe plany
+Edukacja to podstawa długofalowego kształtowania rezultatów w regionie, tym lepsza im większa jest świadomość wyzwań,
+korzyści z uczestnictwa z dodatkowej edukacji pozwoli na zwięksenie sprwczości poprzez większą świadomość.
+Użycie najnowszych technologii pozwoli na łatwy dostęp do materiałów i samodzielną pracę z nimi.
 
-- szkoła liderów
-- szkoła przemawiania
-- kurs prawa i ekonomii
-- kurs zarządzania
+- **Elastyczność:** Ucz się w dogodnym dla siebie tempie, z dowolnego miejsca.
+- **Jakość:** Programy stworzone przez ekspertów z danej dziedziny.
+- **Indywidualne Wsparcie:** Pomaga w organizacji nauki, przypomnienia o terminach, odpowiada na pytania dotyczące kursów.
+- **Rozwiązanie Problemów:** Asystent dostępny 24/7, wspiera w rozwiązywaniu problemów związanych z kursami.
+- **Personalizacja Nauki:** Na podstawie postępów, dostosowuje materiały i zasoby edukacyjne do indywidualnych potrzeb.
+- **Interaktywne Quizy i Testy:** Automatyczne sprawdzanie i dostosowanie pytań do poziomu użytkownika.
 
-### Programy Edukacyjne Akademii Lesok
 
-
-#### Szkoła Liderów
+ 
+### Szkoła Liderów
 
 Wzmocnienie kompetencji liderów, poprawa umiejętności zarządzania zespołami, budowanie wizji i strategii oraz rozwijanie zdolności motywowania innych.
 
@@ -952,7 +956,8 @@ Wzmocnienie kompetencji liderów, poprawa umiejętności zarządzania zespołami
  - Komunikacja jako Klucz do Sukcesu
  - Zarządzanie Konfliktami i Motywacja
 
-#### Szkoła Przemawiania
+
+### Szkoła Przemawiania
 
 Podniesienie umiejętności przemawiania publicznego, budowanie pewności siebie, techniki prezentacji oraz skuteczne przekazywanie informacji.
 
@@ -962,7 +967,8 @@ Podniesienie umiejętności przemawiania publicznego, budowanie pewności siebie
  - Warsztaty Praktyczne z Przemówień
  - Zarządzanie Stresem podczas Przemówień
 
-#### Kurs Prawa i Ekonomii
+
+### Kurs Prawa i Ekonomii
 
 Zapewnienie solidnych podstaw w zakresie prawa oraz ekonomii, niezbędnych do rozumienia mechanizmów rynkowych i prawnych oraz podejmowania świadomych decyzji biznesowych.
 
@@ -972,7 +978,8 @@ Zapewnienie solidnych podstaw w zakresie prawa oraz ekonomii, niezbędnych do ro
  - Prawo Gospodarcze i Handlowe
  - Finanse i Realizacja Celów Ekonomicznych
 
-#### Kurs Zarządzania
+
+### Kurs Zarządzania
 
 Wzmocnienie umiejętności zarządzania zasobami w lokalnych społecznościach, rozwijanie przedsiębiorczości oraz efektywne zarządzanie małym przedsiębiorstwem.
 
@@ -982,17 +989,6 @@ Wzmocnienie umiejętności zarządzania zasobami w lokalnych społecznościach, 
  - Finanse i Budżetowanie dla Małych Przedsiębiorstw
  - Marketing i Rozwój Lokalny
 
-### Nasze wsparcie:
-
-- **Indywidualne Wsparcie:** Pomaga w organizacji nauki, przypomnienia o terminach, odpowiada na pytania dotyczące kursów.
-- **Rozwiązanie Problemów:** Asystent dostępny 24/7, wspiera w rozwiązywaniu problemów związanych z kursami.
-- **Personalizacja Nauki:** Na podstawie postępów, dostosowuje materiały i zasoby edukacyjne do indywidualnych potrzeb.
-- **Interaktywne Quizy i Testy:** Automatyczne sprawdzanie i dostosowanie pytań do poziomu użytkownika.
-
-### Dlaczego?
-- **Elastyczność:** Ucz się w dogodnym dla siebie tempie, z dowolnego miejsca.
-- **Jakość:** Programy stworzone przez ekspertów z danej dziedziny.
-- **Wsparcie:** Dedykowany asystent AI, który pomoże Ci osiągnąć Twoje cele edukacyjne.
 
 
 
@@ -1067,32 +1063,4 @@ Aby skutecznie rozpocząć działalność Fundacji Lesok i uzyskać wsparcie prz
 10. Zorganizuj pierwsze wydarzenie publiczne: Np. debatę na temat ważnego lokalnego problemu, aby pokazać działanie fundacji w praktyce.
 
 Pamiętaj, że kluczowe jest budowanie relacji i zaufania w społeczności. Pokaż, że fundacja jest otwarta na współpracę i faktycznie działa na rzecz dobra wspólnego. Bądź przygotowany na pytania i wątpliwości, ale też na entuzjazm i chęć pomocy ze strony mieszkańców.
-
-
-
-##  Źródła
-
-
-
-- dzieje się zbyt dużo, nie o wszystkim można dowiedzieć się bezpośrednio z samorządu
-- wiele informacji przechodzi obok, nie wiemy co się dzieje, bo wymaga to ciągłego monitorowania
-- Długofalowe procesy są planowane z wyprzedzeniem, lepiej wiedzieć o skutkach działań samorządów z wyprzedzeniem
-- protesty i krótkotrwałe pojedyncze akcje ratujące ludzi z opresji czy blokujące szkodliwe działania samorządów wymagają odpowiedzialności i dyspozycyjności od konkrentych zainteresowanych
-- wiele problemów dotyczy małej części wyselekcjonowanej i rozproszonej części społeczności
-
-
-
-
-- praca u podstaw: edukacja lokalnej społeczności 
-- edukacja w obszarze prawa, procesów i praw obywatela w starciu z rządem i samorządem
-- edukacja młodych, starszych, wykluczonych cyfrowo, pokrzywdzonych po fakcie
-- materiały edukacyjne online
-- działania wspierające, ochrona prawna, pomoc pokrzywdzonym
-
-
-
-
-
-
-
 
