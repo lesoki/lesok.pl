@@ -303,7 +303,8 @@ Władze centralna i lokalne nie cofną się jeśli nie będą napotykały klarow
 - [Stop Korupcji - Komenda Powiatowa Policji w Wejherowie](https://wejherowo.policja.gov.pl/m16/stop-korupcji/66887,Stop-Korupcji.html)
 - [Obsługa sygnalistów – Gryf – Inspektor Ochrony Danych Osobowych](https://rodopomorskie.pl/obsluga-sygnalistow/)
 - [Profilaktyka - Komenda Powiatowa Policji w Wejherowie](https://wejherowo.policja.gov.pl/m16/profilaktyka/66849,dok.html)
-
+- [Aktualności - Zespół Szkolno - Przedszkolnyw Szemudzie](https://sp.szemud.pl/aktualnosci,8,pl)
+- [BIP UG Szemud](https://szemud.pl/rejestr-zmian.html)
 
 
 
