@@ -22,7 +22,7 @@ Wybory odbywają się co kilka lat na wójta, radnego czy sołtysa a istotne dec
 
 **"Fundacja Lesok"** skupia się na ochronie tradycji i lokalnego dziedzictwa Kaszub.
 Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność, działanie na rzecz przyszłych generacji. 
-W ramach promocji będą dostępne podkładki do napojów z dodatkiem aromatu o zapachu leśnego runa i drzew iglastych.
+- W ramach promocji będą dostępne podkładki do napojów z dodatkiem aromatu o zapachu leśnego runa i drzew iglastych.
 
 
 
@@ -188,6 +188,7 @@ Władze centralna i lokalne nie cofną się jeśli nie będą napotykały klarow
 + policja publikuje głównie wypadki drogowe, gdzie są informacje o kradzieżach i oszustwach na terenie gminy?
 + podejrzenia o korupcje w samorządach, jak sprawdzić czy to prawda by nie zostać posądzonym o zniesławienie?
 + co w przypadku, gdy urzędnik mówi, że jest bezradny, jak wyegzekwować obowiązki wobec obywatela?
++ czy rozwiązanie "sygnalista" finalnie rozwiązuje problemy, jak lokalnie szybko i skutecznie rozwiązywać problemy z urzędami?
 
 
 ## Lista pytań
@@ -195,6 +196,11 @@ Władze centralna i lokalne nie cofną się jeśli nie będą napotykały klarow
 + jak chronić dziedzictwo kulturowe Kaszub?
 + jak budować tożsamość lokalnej społeczności?
 + 
+
+## Źródła
+- [Stop Korupcji - Komenda Powiatowa Policji w Wejherowie](https://wejherowo.policja.gov.pl/m16/stop-korupcji/66887,Stop-Korupcji.html)
+- [Obsługa sygnalistów – Gryf – Inspektor Ochrony Danych Osobowych](https://rodopomorskie.pl/obsluga-sygnalistow/)
+- [Profilaktyka - Komenda Powiatowa Policji w Wejherowie](https://wejherowo.policja.gov.pl/m16/profilaktyka/66849,dok.html)
 
 
 ## Formy aktywności i kooperacji z mieszkańcami gminy na rok 2025 i kolejne lata
