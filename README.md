@@ -5,6 +5,7 @@
 
 - Czy czujecie czasem, że ważne decyzje dotyczące naszej gminy przechodzą obok Was niezauważone? 
 - Czy macie wrażenie, że brakuje Wam informacji o planach samorządu, które mogą wpłynąć na Wasze codzienne życie? 
+- Czy czujecie się lekceważeni lub traktowani z góry przez samorząd, który opłacacie z podatków?
 
 Jeśli tak, to nie jesteście sami. 
 
