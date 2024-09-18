@@ -17,7 +17,10 @@ Chcemy, aby każdy z Was miał dostęp do informacji o tym, co dzieje się w nas
 Wybory odbywają się co kilka lat na wójta, radnego czy sołtysa a istotne decyzje w gminie zapadają codziennie, jak mieć na nie wpływ?
 
 
-![obraz](https://github.com/user-attachments/assets/f130ca57-553b-4322-9fd6-5245b9810e3a)
+
+
+![image](https://github.com/user-attachments/assets/3e3514ab-72ba-46ea-9681-1d6eec6c1464)
+
 ## Fundacja Lesok - dla pokoleń
 
 **"Fundacja Lesok"** skupia się na ochronie tradycji i lokalnego dziedzictwa Kaszub.
