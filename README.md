@@ -101,6 +101,102 @@ Wybór fundacji zamiast stowarzyszenia może wynikać z następujących powodów
 
 
 
+## Fundacja Lesok dla samorządu
+
+Fundacja może przynieść wiele korzyści dla samorządu i urzędników gminy, mimo że początkowo mogą postrzegać ją jako organizację "kontrolującą" ich działania. 
+Kluczowe jest, aby samorząd postrzegał Fundację Lesok jako partnera, a nie przeciwnika. 
+Otwarta komunikacja i wzajemny szacunek mogą prowadzić do synergii, która przyniesie korzyści wszystkim stronom: samorządowi, urzędnikom i mieszkańcom gminy.
+
+Oto lista potencjalnych korzyści:
+
+1. Poprawa jakości komunikacji z mieszkańcami:
+- Fundacja może służyć jako dodatkowy kanał komunikacji między samorządem a obywatelami
+- Ułatwia dotarcie z informacjami do szerszego grona mieszkańców
+
+2. Zwiększenie transparentności:
+- Działania fundacji mogą pomóc w budowaniu wizerunku przejrzystego samorządu
+- Może to zwiększyć zaufanie mieszkańców do władz lokalnych
+
+3. Identyfikacja problemów:
+- Fundacja może pomóc w wykrywaniu problemów, które mogły zostać przeoczone przez urzędników
+- Szybsza reakcja na potrzeby mieszkańców
+
+4. Edukacja obywatelska:
+- Lepiej poinformowani mieszkańcy to bardziej świadomi partnerzy w dialogu z samorządem
+- Zmniejszenie liczby nieuzasadnionych skarg i wniosków
+
+5. Wsparcie w realizacji projektów:
+- Fundacja może mobilizować wolontariuszy do pomocy przy inicjatywach gminnych
+- Potencjalne partnerstwo w realizacji projektów społecznych
+
+6. Pozyskiwanie dodatkowych funduszy:
+- Fundacja może aplikować o granty niedostępne dla samorządu
+- Możliwość realizacji dodatkowych projektów bez obciążania budżetu gminy
+
+7. Mediacja w konfliktach:
+- Fundacja może pełnić rolę mediatora w sporach między mieszkańcami a urzędem
+- Potencjalne zmniejszenie liczby spraw trafiających do sądów
+
+8. Promocja gminy:
+- Aktywna fundacja może przyczynić się do pozytywnego wizerunku gminy na zewnątrz
+- Potencjalne przyciągnięcie nowych mieszkańców i inwestorów
+
+9. Innowacje społeczne:
+- Fundacja może testować nowe rozwiązania na mniejszą skalę przed ich wdrożeniem przez gminę
+- Źródło innowacyjnych pomysłów dla samorządu
+
+10. Monitoring i ewaluacja:
+- Niezależna ocena działań gminy może pomóc w ich udoskonalaniu
+- Konstruktywna krytyka może prowadzić do lepszych decyzji
+
+11. Wsparcie dla urzędników:
+- Fundacja może bronić uczciwych urzędników przed nieuzasadnionymi atakami
+- Potencjalne zmniejszenie stresu związanego z publiczną krytyką
+
+12. Zwiększenie partycypacji obywatelskiej:
+- Większe zaangażowanie mieszkańców w sprawy gminy
+- Potencjalne odciążenie urzędników w niektórych obszarach
+
+13. Profesjonalizacja dialogu:
+- Fundacja może pomagać w formułowaniu wniosków i petycji w sposób bardziej merytoryczny
+- Ułatwienie pracy urzędników dzięki lepiej przygotowanym dokumentom od mieszkańców
+
+14. Budowanie kapitału społecznego:
+- Wzmocnienie więzi społecznych w gminie
+- Potencjalne zmniejszenie problemów społecznych
+
+15. Wsparcie w sytuacjach kryzysowych:
+- Fundacja może mobilizować mieszkańców do pomocy w sytuacjach awaryjnych (np. powodzie)
+- Dodatkowe wsparcie dla służb gminnych
+
+16. Rozwój kompetencji urzędników:
+- Współpraca z fundacją może prowadzić do podnoszenia kwalifikacji pracowników samorządowych
+- Potencjalne szkolenia i warsztaty organizowane przez fundację
+
+17. Lepsza alokacja zasobów:
+- Dzięki informacjom od fundacji, samorząd może lepiej planować wydatki i inwestycje
+- Potencjalne oszczędności dzięki lepszemu zrozumieniu potrzeb mieszkańców
+
+
+## Strategia
+
+Pro aktywne działanie przynosi lepsze skutki długofalowe dla każdej ze stron
+Władze centralna i lokalne nie cofną się jeśli nie będą napotykały klarownego sprzeciwu, najlepiej regularnego, aby zachować zdrowy dystans obywatela przed bezwzględną machiną urzędniczą.
+
+## Lista problemów 
+
++ policja publikuje głównie wypadki drogowe, gdzie są informacje o kradzieżach i oszustwach na terenie gminy?
++ podejrzenia o korupcje w samorządach, jak sprawdzić czy to prawda by nie zostać posądzonym o zniesławienie?
++ co w przypadku, gdy urzędnik mówi, że jest bezradny, jak wyegzekwować obowiązki wobec obywatela?
+
+
+## Lista pytań
++ jak chronić dzieci, lista zagrożeń?
++ jak chronić dziedzictwo kulturowe Kaszub?
++ jak budować tożsamość lokalnej społeczności?
++ 
+
+
 ## Formy aktywności i kooperacji z mieszkańcami gminy na rok 2025 i kolejne lata
 
 
