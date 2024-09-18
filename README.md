@@ -569,7 +569,8 @@ g) Przedsiębiorcy:
 + [wariantpolski/dobrowolnosc.pl: Co to jest dobrowolnosc? https://www.dobrowolnosc.pl/](https://github.com/wariantpolski/dobrowolnosc.pl)
 + [demogracja/kontrola-urzednikow](https://github.com/demogracja/kontrola-urzednikow)
 + [rezydent.de](https://github.com/rezydent-de)
- 
++ [Hafty kaszubskie - GOK Chojnice](https://www.gokchojnice.pl/hafty-kaszubskie/)
++  
 
 ## Utworzenie społeczności
 
