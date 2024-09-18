@@ -34,7 +34,7 @@ Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność
 - **Ochronę prawną** - jeśli poczujecie się pokrzywdzeni przez decyzje administracyjne, będziemy służyć radą i pomocą.
 - **Mediacje** - w przypadku konfliktów między mieszkańcami a urzędnikami, będziemy dążyć do sprawiedliwych rozwiązań.
 
-Strategia i Kierunek działań:
+Filary naszej działalności (Strategia i Kierunek działań)
 ```
 Informacja -> Edukacja -> Wsparcie -> Ochrona
 ```
@@ -104,7 +104,7 @@ Wybór fundacji zamiast stowarzyszenia może wynikać z następujących powodów
 
 
 
-## Fundacja Lesok dla samorządu
+## Samorząd
 
 Fundacja może przynieść wiele korzyści dla samorządu i urzędników gminy, mimo że początkowo mogą postrzegać ją jako organizację "kontrolującą" ich działania. 
 Kluczowe jest, aby samorząd postrzegał Fundację Lesok jako partnera, a nie przeciwnika. 
@@ -181,6 +181,105 @@ Oto lista potencjalnych korzyści:
 - Potencjalne oszczędności dzięki lepszemu zrozumieniu potrzeb mieszkańców
 
 
+### Tożsamość
+
+Fundacja Lesok może odegrać kluczową rolę w budowaniu tożsamości mieszkańców Kaszub oraz wspieraniu pozytywnych postaw społecznych. 
+
+Poprzez te działania, Fundacja Lesok może znacząco przyczynić się do wzmocnienia tożsamości kaszubskiej, budowania silnej społeczności lokalnej oraz kształtowania pozytywnych postaw moralnych i społecznych wśród kolejnych pokoleń. 
+Ważne jest, aby wszystkie te inicjatywy były realizowane z szacunkiem dla różnorodności i otwartością na dialog, co pozwoli na harmonijne łączenie tradycji z nowoczesnością.
+
+1. Edukacja kulturowa:
+- Organizuj warsztaty języka kaszubskiego dla różnych grup wiekowych
+- Stwórz programy edukacyjne o historii i tradycjach Kaszub
+- Wspieraj lokalne muzea i izby pamięci
+
+2. Festiwale i wydarzenia kulturalne:
+- Organizuj coroczne festiwale kultury kaszubskiej
+- Wspieraj lokalne zespoły folklorystyczne i artystów
+- Promuj tradycyjne rzemiosło i sztukę kaszubską
+
+3. Mentoring międzypokoleniowy:
+- Stwórz program łączący seniorów z młodzieżą
+- Zachęcaj do przekazywania tradycji, opowieści i umiejętności
+
+4. Programy wolontariatu:
+- Organizuj akcje wolontariackie angażujące różne grupy wiekowe
+- Stwórz system nagradzania aktywności społecznej
+
+5. Edukacja obywatelska:
+- Prowadź warsztaty o samorządności i aktywizmie lokalnym
+- Organizuj symulacje procesów demokratycznych dla młodzieży
+
+6. Projekty ekologiczne:
+- Inicjuj akcje ochrony lokalnego środowiska
+- Edukuj o związku między kulturą kaszubską a przyrodą regionu
+
+7. Wsparcie lokalnej przedsiębiorczości:
+- Promuj lokalne produkty i usługi
+- Organizuj targi i jarmarki kaszubskie
+
+8. Media lokalne:
+- Stwórz podcast lub program radiowy w języku kaszubskim
+- Wspieraj tworzenie treści o tematyce kaszubskiej w mediach społecznościowych
+
+9. Programy stypendialne:
+- Oferuj stypendia dla młodzieży angażującej się w życie społeczności
+- Wspieraj projekty badawcze związane z kulturą kaszubską
+
+10. Konkursy i nagrody:
+- Organizuj konkursy promujące wiedzę o Kaszubach
+- Przyznawaj nagrody za działalność na rzecz społeczności lokalnej
+
+11. Wsparcie dla rodzin:
+- Organizuj warsztaty wychowawcze promujące wartości kaszubskie
+- Twórz grupy wsparcia dla rodzin
+
+12. Projekty artystyczne:
+- Wspieraj tworzenie murali o tematyce kaszubskiej
+- Organizuj konkursy literackie i poetyckie w języku kaszubskim
+
+13. Programy wymiany kulturowej:
+- Organizuj wymiany z innymi regionami Polski i Europy
+- Promuj kulturę kaszubską poza regionem
+
+14. Ochrona dziedzictwa:
+- Inicjuj projekty renowacji zabytków
+- Zbieraj i digitalizuj lokalne archiwa i pamiątki
+
+15. Edukacja medialna:
+- Ucz krytycznego myślenia i rozpoznawania fake newsów
+- Promuj odpowiedzialne korzystanie z mediów społecznościowych
+
+16. Programy integracyjne:
+- Organizuj wydarzenia łączące rdzennych Kaszubów z nowymi mieszkańcami
+- Twórz platformy do dialogu międzykulturowego
+
+17. Wsparcie psychologiczne:
+- Oferuj bezpłatne konsultacje psychologiczne
+- Organizuj grupy wsparcia dla osób w kryzysie
+
+18. Promocja zdrowego stylu życia:
+- Organizuj wydarzenia sportowe nawiązujące do tradycji kaszubskich
+- Promuj tradycyjną, zdrową kuchnię kaszubską
+
+19. Programy rozwoju liderów:
+- Stwórz akademię liderów lokalnych
+- Wspieraj młodych aktywistów w realizacji ich projektów
+
+20. Dokumentacja i archiwizacja:
+- Zbieraj i publikuj historie mówione starszych mieszkańców
+- Twórz cyfrowe archiwa kultury kaszubskiej
+
+### Kluczowe:
+
+- Inkluzywność: Angażuj wszystkie grupy wiekowe i społeczne.
+- Autentyczność: Bazuj na prawdziwych tradycjach i wartościach kaszubskich.
+- Innowacyjność: Łącz tradycję z nowoczesnymi formami przekazu.
+- Współpraca: Angażuj lokalne instytucje, szkoły, organizacje.
+- Długoterminowość: Planuj działania z myślą o długofalowym wpływie.
+
+
+
 ## Strategia
 
 Pro aktywne działanie przynosi lepsze skutki długofalowe dla każdej ze stron
@@ -204,6 +303,8 @@ Władze centralna i lokalne nie cofną się jeśli nie będą napotykały klarow
 - [Stop Korupcji - Komenda Powiatowa Policji w Wejherowie](https://wejherowo.policja.gov.pl/m16/stop-korupcji/66887,Stop-Korupcji.html)
 - [Obsługa sygnalistów – Gryf – Inspektor Ochrony Danych Osobowych](https://rodopomorskie.pl/obsluga-sygnalistow/)
 - [Profilaktyka - Komenda Powiatowa Policji w Wejherowie](https://wejherowo.policja.gov.pl/m16/profilaktyka/66849,dok.html)
+
+
 
 
 ## Formy aktywności i kooperacji z mieszkańcami gminy na rok 2025 i kolejne lata
