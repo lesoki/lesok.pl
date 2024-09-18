@@ -99,7 +99,7 @@ Planowane są również działania wspierające, takie jak ochrona prawna i pomo
 
 ## Odpowiedzi na pytania:
 
-1. Dlaczego fundacja, czemu nie indywidualna walka lub od przypadku do przypadku spontanicznie?
+### Dlaczego fundacja, czemu nie indywidualna walka lub od przypadku do przypadku spontanicznie?
 
 Fundacja jako forma organizacji ma kilka zalet nad indywidualną lub spontaniczną działalnością:
 
@@ -109,7 +109,7 @@ Fundacja jako forma organizacji ma kilka zalet nad indywidualną lub spontaniczn
 - Efektywność: Skoordynowane działania w ramach fundacji mogą być bardziej efektywne niż indywidualne wysiłki.
 - Specjalizacja: Fundacja może zatrudniać lub współpracować z ekspertami w różnych dziedzinach.
 
-2. Dlaczego fundacja a nie stowarzyszenie?
+### Dlaczego fundacja a nie stowarzyszenie?
 
 Wybór fundacji zamiast stowarzyszenia może wynikać z następujących powodów:
 
@@ -118,6 +118,28 @@ Wybór fundacji zamiast stowarzyszenia może wynikać z następujących powodów
 - Stabilność finansowa: Fundacje często rozpoczynają działalność z określonym majątkiem, co może zapewnić większą stabilność finansową na początku działalności.
 - Niezależność: Fundacje są bardziej niezależne od członków niż stowarzyszenia, co może być korzystne w przypadku realizacji długoterminowych celów.
 - Łatwiejsze pozyskiwanie środków: W niektórych przypadkach fundacje mogą mieć łatwiejszy dostęp do grantów i dotacji.
+
+### Dlaczego nie zostawić spraw organom centralnym i lokalnym
+
+Zostawienie spraw organom centralnym i lokalnym może wydawać się wygodne, ale niesie ze sobą ryzyko, że mieszkańcy stracą kontrolę nad swoimi interesami.
+Oto kilka kluczowych powodów, dlaczego warto angażować się w lokalne inicjatywy:
+
+1. **Aktywny wpływ na decyzje**: Mieszkańcy mają możliwość bezpośredniego wpływania na decyzje podejmowane przez samorząd. Bez aktywnego zaangażowania, ważne sprawy mogą być pomijane lub ignorowane.
+
+2. **Lepsza komunikacja**: Fundacja Lesok działa jako pośrednik, który poprawia przepływ informacji między mieszkańcami a władzami. Pozwala to na bieżąco śledzenie działań samorządu i zrozumienie ich wpływu na codzienne życie.
+
+3. **Edukacja i wsparcie**: Fundacja oferuje edukację obywatelską, co zwiększa świadomość mieszkańców o ich prawach oraz możliwościach działania. To z kolei prowadzi do bardziej świadomego uczestnictwa w życiu lokalnym.
+
+4. **Zwiększenie transparentności**: Angażując się w lokalne inicjatywy, mieszkańcy mogą przyczynić się do większej przejrzystości działań samorządu, co buduje zaufanie społeczności do władz lokalnych.
+
+5. **Mediacja w konfliktach**: Fundacja może pełnić rolę mediatora w sporach między mieszkańcami a urzędnikami, co sprzyja konstruktywnemu rozwiązywaniu problemów.
+
+6. **Długofalowe zmiany**: Spontaniczne działania często przynoszą krótkoterminowe efekty. Fundacja zapewnia ciągłość działań i długofalowe podejście do rozwiązywania problemów społecznych.
+
+7. **Integracja społeczności**: Aktywne uczestnictwo w fundacji sprzyja budowaniu silnych więzi między mieszkańcami, co jest kluczowe dla zdrowego funkcjonowania społeczności lokalnej.
+
+Zaangażowanie w działania takie jak te proponowane przez Fundację Lesok nie tylko wzmacnia głos mieszkańców, ale także przyczynia się do lepszego zarządzania gminą i poprawy jakości życia w społeczności.
+
 
 
 
