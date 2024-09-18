@@ -982,6 +982,79 @@ Wzmocnienie umiejętności zarządzania zasobami w lokalnych społecznościach, 
 
 
 
+## Start
+
+Aby skutecznie rozpocząć działalność Fundacji Lesok i uzyskać wsparcie przy jej tworzeniu, warto w pierwszej kolejności skontaktować się z następującymi osobami i grupami:
+
+1. Lokalni liderzy społeczni:
+- Sołtysi i rady sołeckie
+- Aktywiści znani z dotychczasowych działań na rzecz gminy
+- Liderzy lokalnych organizacji pozarządowych
+
+2. Przedstawiciele edukacji:
+- Dyrektorzy szkół
+- Aktywni nauczyciele
+- Przedstawiciele rad rodziców
+
+3. Lokalni przedsiębiorcy:
+- Właściciele firm działających na terenie gminy
+- Przedstawiciele lokalnych izb gospodarczych
+
+4. Przedstawiciele instytucji kulturalnych:
+- Pracownicy domów kultury
+- Organizatorzy lokalnych wydarzeń kulturalnych
+
+5. Przedstawiciele organizacji młodzieżowych:
+- Opiekunowie samorządów uczniowskich
+- Aktywiści młodzieżowi
+
+6. Seniorzy i przedstawiciele organizacji senioralnych:
+- Liderzy Uniwersytetów Trzeciego Wieku
+- Przedstawiciele klubów seniora
+
+7. Lokalni eksperci:
+- Prawnicy
+- Ekonomiści
+- Specjaliści ds. pozyskiwania funduszy
+
+8. Przedstawiciele mediów lokalnych:
+- Redaktorzy lokalnych gazet
+- Prowadzący lokalne audycje radiowe
+
+9. Liderzy organizacji religijnych:
+- Księża lub inni duchowni aktywni w życiu społecznym gminy
+
+10. Przedstawiciele lokalnych grup hobbystycznych:
+- Liderzy klubów sportowych
+- Organizatorzy lokalnych wydarzeń
+
+
+
+### Co zrobić?
+
+1. Stwórz listę kontaktową: Zbierz dane kontaktowe do wymienionych wyżej osób i grup.
+
+2. Przygotuj materiały informacyjne: Opracuj krótką, ale treściwą prezentację idei fundacji.
+
+3. Zorganizuj spotkanie informacyjne: Zaproś kluczowe osoby na spotkanie, gdzie przedstawisz ideę fundacji i jej cele.
+
+4. Stwórz grupę inicjatywną: Zidentyfikuj osoby najbardziej zainteresowane i chętne do pomocy.
+
+5. Skonsultuj się z prawnikiem: Omów formalne aspekty zakładania fundacji.
+
+6. Rozpocznij budowanie sieci wsparcia: Poproś zaangażowane osoby o polecenie fundacji w swoich kręgach.
+
+7. Zaplanuj pierwsze działania: Ustal konkretne kroki i harmonogram działań na najbliższe miesiące.
+
+8. Rozpocznij komunikację w mediach społecznościowych: Stwórz profile fundacji i zacznij budować społeczność online.
+
+9. Skontaktuj się z samorządem: Przedstaw ideę fundacji władzom gminy, podkreślając chęć współpracy.
+
+10. Zorganizuj pierwsze wydarzenie publiczne: Np. debatę na temat ważnego lokalnego problemu, aby pokazać działanie fundacji w praktyce.
+
+Pamiętaj, że kluczowe jest budowanie relacji i zaufania w społeczności. Pokaż, że fundacja jest otwarta na współpracę i faktycznie działa na rzecz dobra wspólnego. Bądź przygotowany na pytania i wątpliwości, ale też na entuzjazm i chęć pomocy ze strony mieszkańców.
+
+
 
 ##  Źródła
 
