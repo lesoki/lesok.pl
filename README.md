@@ -25,22 +25,36 @@ Wybory odbywają się co kilka lat na wójta, radnego czy sołtysa a istotne dec
 
 **"Fundacja Lesok"** skupia się na ochronie tradycji i lokalnego dziedzictwa Kaszub.
 Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność, działanie na rzecz przyszłych generacji. 
-- W ramach promocji będą dostępne podkładki do napojów z dodatkiem aromatu o zapachu leśnego runa i drzew iglastych.
+- W ramach promocji będą dostępne podkładki do napojów z dodatkiem aromatu "lasu".
 
 
 
-## Co oferujemy?
-
-- **Monitoring działań władz** - będziemy informować o każdej decyzji urzędników, analizować i informować Was o nich.
-- **Wsparcie w działaniu** - czy chcecie zaprotestować przeciwko niekorzystnej decyzji czy wesprzeć dobry projekt, pomożemy Wam się zorganizować.
-- **Edukację i doradztwo** - pomożemy Wam zrozumieć, jak działa samorząd i jakie są Wasze prawa. 
-- **Ochronę prawną** - jeśli poczujecie się pokrzywdzeni przez decyzje administracyjne, będziemy służyć radą i pomocą.
-- **Mediacje** - w przypadku konfliktów między mieszkańcami a urzędnikami, będziemy dążyć do sprawiedliwych rozwiązań.
+## Korzyści dla społeczności
 
 Filary naszej działalności (Strategia i Kierunek działań)
 ```
 Informacja -> Edukacja -> Wsparcie -> Ochrona
 ```
+
+Fundacja Lesok może przynieść szereg konkretnych korzyści dla społeczności gminy Szemud, w tym:
+
+1. **Udoskonalenie komunikacji**: Fundacja działa jako pośrednik między mieszkańcami a samorządem, rządem, policją, strażą, co poprawia dostęp do informacji o decyzjach i planach gminy. Dzięki temu mieszkańcy będą lepiej poinformowani o sprawach lokalnych, co zwiększy ich zaangażowanie w życie społeczności.
+
+2. **Edukacja obywatelska**: Fundacja oferuje programy edukacyjne dotyczące praw obywatelskich oraz funkcjonowania samorządu. Mieszkańcy będą mogli lepiej zrozumieć swoje prawa i obowiązki, co sprzyja aktywności obywatelskiej.
+
+3. **Wsparcie w działaniach społecznych**: Fundacja może organizować akcje protestacyjne lub wspierać pozytywne inicjatywy, co pozwala mieszkańcom skuteczniej działać na rzecz swoich interesów.
+
+4. **Monitoring działań władz**: Regularne informowanie o decyzjach urzędników oraz analiza ich wpływu na społeczność pozwoli na szybsze reagowanie na niekorzystne zmiany.
+
+5. **Mediacja w konfliktach**: Fundacja może pełnić rolę mediatora w sporach między mieszkańcami a urzędnikami, co przyczyni się do rozwiązywania problemów w sposób konstruktywny.
+
+6. **Wzmacnianie więzi społecznych**: Organizacja i wspieranie wydarzeń kulturalnych i edukacyjnych sprzyja integracji mieszkańców oraz budowaniu silnej społeczności lokalnej.
+
+7. **Ochrona lokalnego dziedzictwa**: Fundacja koncentruje się na ochronie tradycji i lokalnego dziedzictwa Kaszub, co wspiera rozwój tożsamości regionalnej i kulturowej.
+
+Te działania mogą znacząco wpłynąć na jakość życia mieszkańców, zwiększając ich poczucie przynależności i aktywności w lokalnej społeczności.
+
+
 
 ## Głos mieszkańców
 
