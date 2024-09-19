@@ -144,7 +144,7 @@ Zaangażowanie w działania takie jak te proponowane przez Fundację Lesok nie t
 
 Oto kilka kluczowych powodów, dlaczego warto angażować się w lokalne inicjatywy:
 
-#### 1. Aktywny wpływ na decyzje
+#### Aktywny wpływ na decyzje
 Mieszkańcy mają możliwość bezpośredniego wpływania na decyzje podejmowane przez samorząd. Bez aktywnego zaangażowania, ważne sprawy mogą być pomijane lub ignorowane.
 
 #### Lepsza komunikacja
@@ -194,34 +194,34 @@ Fundacja Lesok planuje zwiększyć zaangażowanie mieszkańców gminy Szemud pop
 Te działania mają na celu nie tylko zwiększenie zaangażowania obywatelskiego, ale także budowanie silnej, świadomej wspólnoty lokalnej, która aktywnie uczestniczy w życiu gminy.
 Oto kluczowe sposoby:
 
-#### 1. Edukacja obywatelska
+#### Edukacja obywatelska
 Fundacja zamierza prowadzić programy edukacyjne, które zwiększą świadomość mieszkańców na temat ich praw i funkcjonowania samorządu. Działania te będą skierowane do różnych grup wiekowych, w tym do osób wykluczonych cyfrowo, co ma na celu zapewnienie dostępu do informacji dla wszystkich.
 
-#### 2. Konsultacje społeczne
+#### Konsultacje społeczne
 Organizacja spotkań otwartych oraz ankiet online i offline pozwoli mieszkańcom na wyrażenie swoich opinii i pomysłów dotyczących ważnych decyzji gminy. To umożliwi aktywne uczestnictwo w procesie decyzyjnym.
 
-#### 3. Budżet obywatelski
+#### Budżet obywatelski
 Wprowadzenie budżetu obywatelskiego umożliwi mieszkańcom zgłaszanie i głosowanie nad projektami lokalnymi, co zwiększy ich wpływ na wydatki gminne.
 
-#### 4. Lokalne grupy działania
+#### Lokalne grupy działania
 Tworzenie grup skupiających mieszkańców, organizacje i przedsiębiorców pozwoli na wspólne planowanie i realizację projektów rozwojowych, co wzmocni poczucie wspólnoty.
 
-#### 5. Wolontariat i akcje społeczne
+#### Wolontariat i akcje społeczne
 Fundacja planuje organizować dni sprzątania okolicy oraz zbiórki charytatywne, angażując mieszkańców w działania na rzecz społeczności.
 
-#### 6. Rady sołeckie i osiedlowe
+#### Rady sołeckie i osiedlowe
 Wzmocnienie roli rad jako pośredników między mieszkańcami a władzami gminy umożliwi regularne zbieranie opinii i pomysłów od społeczności.
 
-#### 7. Warsztaty i szkolenia
+#### Warsztaty i szkolenia
 Organizacja warsztatów dotyczących praw obywatelskich oraz umiejętności przydatnych w życiu społeczności ma na celu rozwijanie kompetencji mieszkańców.
 
-#### 8. Lokalne festyny i wydarzenia kulturalne
+#### Lokalne festyny i wydarzenia kulturalne
 Angażowanie mieszkańców w organizację lokalnych imprez oraz promowanie kultury kaszubskiej przyczyni się do integracji społecznej.
 
-#### 9. Programy mentoringowe
+#### Programy mentoringowe
 Łączenie doświadczonych działaczy społecznych z nowymi aktywistami pomoże w transferze wiedzy i umiejętności potrzebnych do skutecznego działania na rzecz społeczności.
 
-#### 10. Media lokalne
+#### Media lokalne
 Fundacja zamierza stworzyć podcasty oraz kanały YouTube, aby dotrzeć do szerszego grona odbiorców i angażować mieszkańców w dyskusje o sprawach lokalnych.
 
 
