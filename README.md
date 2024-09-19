@@ -34,7 +34,7 @@ Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność
 
 Filary naszej działalności (Strategia i Kierunek działań)
 ```
-Informacja -> Edukacja -> Wsparcie -> Ochrona
+Informacja -> Edukacja -> Działanie -> Ochrona
 ```
 
 Fundacja Lesok może przynieść szereg konkretnych korzyści dla społeczności gminy Szemud, w tym:
@@ -80,6 +80,52 @@ Nie czekajmy, aż ktoś inny zadecyduje za Was:
 Skontaktujcie się z nami, aby dowiedzieć się więcej o tym, jak wspólnie możemy sobie pomóc i zaangażować się dla naszego dobra wspólnego i dla przyszłych pokoleń.
 Razem możemy sprawić, że samorząd gminy będzie jeszce lepiej zarządzany.
 Gdzie głos mieszkańca liczy się nie tylko co kilka lat, ale **każdego dnia**, by każdy miał wpływ na naszą przyszłość.
+
+## Świadomość
+
+Czym jest [Świadomość](https://pl.wikipedia.org/wiki/%C5%9Awiadomo%C5%9B%C4%87)?
+- podstawowy i fundamentalny stan psychiczny, w którym jednostka zdaje sobie sprawę ze zjawisk wewnętrznych, takich jak własne procesy myślowe oraz zjawisk zachodzących w środowisku zewnętrznym i jest w stanie reagować na nie (somatycznie lub autonomicznie). 
+
+
+Świadomość każe zadawać pytania:
+- Jeśli ktoś chce zrobić Ci dobrze, to jaką ma w tym korzyść jeśli to nie jest wdzięczność za przysługę?
+- Jeśli coś musisz, to zapytaj dlaczego, komu to służy i dlaczego nie Tobie?
+- Jeśli coś chcesz, a nie musisz, to dołącz do tego kto musi
+ 
+Dla świadomej osoby autorytetem jest **prawda**, budowana na **hierarchii wartości** - [ Wartości i autonomia organizacji i organizmów](https://github.com/tom-sapletta-com/wartosci)
+Prawda jest jedna i nie musisz jej znać, by uniknąć kłopotów:
+- wystarczy **rozpoznać fałsz**.
+
+Relatywizm sprowadza prawdę do jednej z opcji a liczy się ten, kto jest silniejszy i ma wpływy.
+Każdego (niezależnie od statusu) można ocenić wobec kryteriów prawdy bazującej na hierarchii wartości.
+
+
+## Samoświadomość
+```
+Samoświadomość to głód prawdy podsycany hierarchią wartości udowodnionej praktyką a nie teorią
+```
+
+Teza podkreśla różnicę między rzeczywistym doświadczeniem a abstrakcyjnymi koncepcjami. 
+Teoria bez praktycznego zastosowania może być niewystarczająca do rozwoju prawdziwej samoświadomości.
+Praktyka w bioraca pod uwagę stan faktyczny wszystkiego co nas otacza, w przeciwieństwie do:
+
+- Dogmatu - sztywnych, z góry przyjętych przekonań
+- Spekulacji - niepewnych przypuszczeń czy domysłów
+- Konwencji - społecznie ustalonych norm
+- Intuicji - nieuświadomionych przeczuć często bazujace na emocjach
+
+
+Samoświadomość jest porównywana do "głodu prawdy" - pragnienia zrozumienia rzeczywistości i samego siebie. 
+
+Ten głód nie jest jednak chaotyczny, lecz ukierunkowany przez "hierarchię wartości". Oznacza to, że w procesie samopoznania kierujemy się pewnymi priorytetami i zasadami.
+
+Co istotne, ta hierarchia wartości ma być "udowodniona praktyką" - czyli wynika z rzeczywistych doświadczeń i sprawdzonych działań, a nie tylko z teoretycznych rozważań.
+
+Stoi to w kontrze podejściu "pragmatycznemu", gdzie czysto utylitarne czy koniunkturalne podejście do wartości nie jest właściwą podstawą dla samoświadomości.
+
+To głęboka refleksja nad naturą samoświadomości i jej związkiem z etyką oraz doświadczeniem. 
+
+
 
 
 ### Fundacja Lesok - razem, lepiej ... na pokolenia
