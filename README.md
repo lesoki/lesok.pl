@@ -162,16 +162,16 @@ Zaangażowanie w działania takie jak te proponowane przez Fundację Lesok nie t
 
 Tworzenie nowych kanałów komunikacji w dobie zalewu informacji ma istotne znaczenie dla Fundacji Lesok, szczególnie w kontekście jej hierarchii wartości i celów.
 
-## Poprawa komunikacji z mieszkańcami
+#### Poprawa komunikacji z mieszkańcami
 Fundacja stawia na usprawnienie komunikacji między mieszkańcami a instytucjami (samorząd, rząd), co jest kluczowe dla zapewnienia efektywnego przepływu informacji o decyzjach i planach gminy. Nowe kanały, takie jak podcasty czy lokalne serwisy informacyjne, mogą skupić się na najważniejszych tematach, ułatwiając mieszkańcom śledzenie bieżących wydarzeń.
 
-## Zwiększenie zaangażowania obywatelskiego
+#### Zwiększenie zaangażowania obywatelskiego
 Budowanie platform do dyskusji i interakcji sprzyja aktywnemu uczestnictwu mieszkańców w życiu lokalnym, co jest priorytetem Fundacji. Dzięki nowym kanałom obywatele mogą wyrażać swoje opinie i pomysły, co zwiększa ich poczucie wpływu na decyzje podejmowane przez samorząd.
 
-## Edukacja obywatelska
+#### Edukacja obywatelska
 Nowe kanały komunikacji mogą być wykorzystywane do prowadzenia działań edukacyjnych, zwiększających świadomość mieszkańców na temat ich praw oraz możliwości wpływania na sprawy gminy. Jest to zgodne z celem Fundacji, jakim jest podnoszenie świadomości obywatelskiej poprzez programy edukacyjne.
 
-## Dostosowanie do różnych grup społecznych
+#### Dostosowanie do różnych grup społecznych
 Nowe kanały mogą być projektowane tak, aby odpowiadały potrzebom różnych grup wiekowych i społecznych, w tym osób wykluczonych cyfrowo. Umożliwia to dotarcie do szerszego grona mieszkańców i zapewnienie im dostępu do istotnych informacji, co wpisuje się w misję Fundacji, jaką jest aktywizacja wszystkich mieszkańców.
 
 Podsumowując, tworzenie nowych kanałów komunikacji jest spójne z hierarchią wartości Fundacji Lesok i pozwala na skuteczniejszą realizację jej celów, takich jak zwiększenie wpływu mieszkańców na sprawy lokalne, poprawa komunikacji z samorządem oraz budowanie silnej, świadomej społeczności gminy Szemud.
