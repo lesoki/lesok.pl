@@ -1,5 +1,5 @@
 # [Fundacja Lesok - razem, lepiej, na pokolenia!](http://www.lesok.pl)
-
++ ostatnia aktualizacja 19.09.2024
 
 ## Drodzy mieszkańcy gminy Szemud!
 
