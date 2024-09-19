@@ -81,51 +81,6 @@ Skontaktujcie się z nami, aby dowiedzieć się więcej o tym, jak wspólnie mo�
 Razem możemy sprawić, że samorząd gminy będzie jeszce lepiej zarządzany.
 Gdzie głos mieszkańca liczy się nie tylko co kilka lat, ale **każdego dnia**, by każdy miał wpływ na naszą przyszłość.
 
-## Świadomość
-
-Czym jest [Świadomość](https://pl.wikipedia.org/wiki/%C5%9Awiadomo%C5%9B%C4%87)?
-- podstawowy i fundamentalny stan psychiczny, w którym jednostka zdaje sobie sprawę ze zjawisk wewnętrznych, takich jak własne procesy myślowe oraz zjawisk zachodzących w środowisku zewnętrznym i jest w stanie reagować na nie (somatycznie lub autonomicznie). 
-
-
-Świadomość każe zadawać pytania:
-- Jeśli ktoś chce zrobić Ci dobrze, to jaką ma w tym korzyść jeśli to nie jest wdzięczność za przysługę?
-- Jeśli coś musisz, to zapytaj dlaczego, komu to służy i dlaczego nie Tobie?
-- Jeśli coś chcesz, a nie musisz, to dołącz do tego kto musi
- 
-Dla świadomej osoby autorytetem jest **prawda**, budowana na **hierarchii wartości** - [ Wartości i autonomia organizacji i organizmów](https://github.com/tom-sapletta-com/wartosci)
-Prawda jest jedna i nie musisz jej znać, by uniknąć kłopotów:
-- wystarczy **rozpoznać fałsz**.
-
-Relatywizm sprowadza **prawdę** do jednej z **opcji** a liczy się ta **opcja**, którą forsuje **silniejszy** lub **głośniejszy**
-Każdego (niezależnie od statusu) można ocenić wobec kryteriów prawdy bazującej na hierarchii wartości.
-
-
-## Samoświadomość
-```
-Samoświadomość to dążenie do prawdy ukierunkowane hierarchią wartości udowodnionej praktyką, a nie teorią."
-```
-
-Teza podkreśla różnicę między rzeczywistym doświadczeniem a abstrakcyjnymi koncepcjami, to refleksja nad naturą samoświadomości i jej związkiem z etyką oraz doświadczeniem. 
-Teoria bez praktycznego potwierdzenia i powtarzalnej (naukowej) metodyki pozwala na obnażenie fałszu, dlatego tezy muszą być określone w czasie i miejscu.
-Praktyka bierze pod uwagę stan faktyczny wszystkiego co nas otacza, stoi to w kontrze do:
-
-- **Dogmatu** - sztywnych, z góry przyjętych przekonań
-- **Spekulacji** - niepewnych przypuszczeń czy domysłów
-- **Konwencji** - społecznie ustalonych norm
-- **Intuicji** - nieuświadomionych przeczuć często bazujacych na emocjach
-
-gdzie czysto utylitarne czy koniunkturalne podejście do wartości nie jest właściwą podstawą dla samoświadomości.
-
-
-Samoświadomość jest porównywana do **głodu/dążenia do prawdy** - pragnienia zrozumienia rzeczywistości i samego siebie. 
-
-Ten głód nie jest jednak chaotyczny, lecz ukierunkowany przez **hierarchię wartości**. Oznacza to, że w procesie samopoznania kierujemy się pewnymi priorytetami i zasadami.
-
-Co istotne, ta hierarchia wartości ma być **udowodniona praktyką** - czyli wynika z rzeczywistych doświadczeń i sprawdzonych działań, a nie tylko z teoretycznych rozważań.
-
-
-
-
 
 
 
@@ -188,6 +143,59 @@ Oto kilka kluczowych powodów, dlaczego warto angażować się w lokalne inicjat
 7. **Integracja społeczności**: Aktywne uczestnictwo w fundacji sprzyja budowaniu silnych więzi między mieszkańcami, co jest kluczowe dla zdrowego funkcjonowania społeczności lokalnej.
 
 Zaangażowanie w działania takie jak te proponowane przez Fundację Lesok nie tylko wzmacnia głos mieszkańców, ale także przyczynia się do lepszego zarządzania gminą i poprawy jakości życia w społeczności.
+
+
+## Filozofia 
+
+Kluczem do uzyskania długofalwoych rezultatów jest zrozumienie rzeczywistości, polegając na świadomej ocenie i działaniu.
+Konieczna jest właściwa, świadoma w kontekście społeczności ocena sytuacji i dobranie odpowiednich metod w konkretnym miejscu i czasie.
+Jako Fundacja zawsze będziemy mieli ograniczone środki i zasoby, dlatego musimy wpływać na otaczającą rzeczywistość miejscowo, uderzać w te struny, które wprowadzą w rezonans społeczność małym kosztem, potegując korzystne skutki dla całej społeczności.
+
+
+### Świadomość
+
+Czym jest [Świadomość](https://pl.wikipedia.org/wiki/%C5%9Awiadomo%C5%9B%C4%87)?
+- podstawowy i fundamentalny stan psychiczny, w którym jednostka zdaje sobie sprawę ze zjawisk wewnętrznych, takich jak własne procesy myślowe oraz zjawisk zachodzących w środowisku zewnętrznym i jest w stanie reagować na nie (somatycznie lub autonomicznie). 
+
+
+Świadomość każe zadawać pytania:
+- Jeśli ktoś chce zrobić Ci dobrze, to jaką ma w tym korzyść jeśli to nie jest wdzięczność za przysługę?
+- Jeśli coś musisz, to zapytaj dlaczego, komu to służy i dlaczego nie Tobie?
+- Jeśli coś chcesz, a nie musisz, to dołącz do tego kto musi
+ 
+Dla świadomej osoby autorytetem jest **prawda**, budowana na **hierarchii wartości** - [ Wartości i autonomia organizacji i organizmów](https://github.com/tom-sapletta-com/wartosci)
+Prawda jest jedna i nie musisz jej znać, by uniknąć kłopotów:
+- wystarczy **rozpoznać fałsz**.
+
+Relatywizm sprowadza **prawdę** do jednej z **opcji** a liczy się ta **opcja**, którą forsuje **silniejszy** lub **głośniejszy**
+Każdego (niezależnie od statusu) można ocenić wobec kryteriów prawdy bazującej na hierarchii wartości.
+
+
+### Samoświadomość
+```
+Samoświadomość to dążenie do prawdy ukierunkowane hierarchią wartości udowodnionej praktyką, a nie teorią."
+```
+
+Teza podkreśla różnicę między rzeczywistym doświadczeniem a abstrakcyjnymi koncepcjami, to refleksja nad naturą samoświadomości i jej związkiem z etyką oraz doświadczeniem. 
+Teoria bez praktycznego potwierdzenia i powtarzalnej (naukowej) metodyki pozwala na obnażenie fałszu, dlatego tezy muszą być określone w czasie i miejscu.
+Praktyka bierze pod uwagę stan faktyczny wszystkiego co nas otacza, stoi to w kontrze do:
+
+- **Dogmatu** - sztywnych, z góry przyjętych przekonań
+- **Spekulacji** - niepewnych przypuszczeń czy domysłów
+- **Konwencji** - społecznie ustalonych norm
+- **Intuicji** - nieuświadomionych przeczuć często bazujacych na emocjach
+
+gdzie czysto utylitarne czy koniunkturalne podejście do wartości nie jest właściwą podstawą dla samoświadomości.
+
+
+Samoświadomość jest porównywana do **głodu/dążenia do prawdy** - pragnienia zrozumienia rzeczywistości i samego siebie. 
+
+Ten głód nie jest jednak chaotyczny, lecz ukierunkowany przez **hierarchię wartości**. Oznacza to, że w procesie samopoznania kierujemy się pewnymi priorytetami i zasadami.
+
+Co istotne, ta hierarchia wartości ma być **udowodniona praktyką** - czyli wynika z rzeczywistych doświadczeń i sprawdzonych działań, a nie tylko z teoretycznych rozważań.
+
+
+
 
 
 
