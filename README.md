@@ -645,8 +645,9 @@ g) Przedsiębiorcy:
 
 
 
-## Inne projekty
+## Inne projekty i źródła
 
++ [autonom - zbiór publikacji cybernetycznych](http://autonom.edu.pl/)
 + [edukacjadomowa/www: www.edukacjadomowa.net - edukacjadomowa.github.io/www](https://github.com/edukacjadomowa/www)
 + [wariantpolski/www: Wariant Polski - opowiadanie online](https://github.com/wariantpolski/www)
 + [wariantpolski/www.geostrategy.pl: www.geostrategy.pl - polska wersja](https://github.com/wariantpolski/www.geostrategy.pl)
@@ -656,7 +657,7 @@ g) Przedsiębiorcy:
 + [demogracja/kontrola-urzednikow](https://github.com/demogracja/kontrola-urzednikow)
 + [rezydent.de](https://github.com/rezydent-de)
 + [Hafty kaszubskie - GOK Chojnice](https://www.gokchojnice.pl/hafty-kaszubskie/)
-+  
+
 
 ## Utworzenie społeczności
 
