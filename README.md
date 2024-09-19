@@ -75,33 +75,6 @@ Gdzie głos mieszkańca liczy się nie tylko co kilka lat, ale **każdego dnia**
 
 ## Strategia
 
-Filary naszej Strategii 
-```
-Informacja -> Edukacja -> Działanie -> Kształtowanie
-```
-
-Fundacja Lesok może przynieść szereg konkretnych korzyści dla społeczności gminy Szemud, w tym:
-
-1. **Udoskonalenie komunikacji**: Fundacja będzie działać jako pośrednik między mieszkańcami a samorządem, rządem, policją, strażą, jednostaki podlegającymi władzy, co poprawi dostęp do informacji o decyzjach i planach gminy. Dzięki temu mieszkańcy będą lepiej poinformowani o sprawach lokalnych, co zwiększy ich zaangażowanie w życie społeczności.
-
-2. **Edukacja obywatelska**: Fundacja oferuje programy edukacyjne dotyczące praw obywatelskich oraz funkcjonowania samorządu. Mieszkańcy będą mogli lepiej zrozumieć swoje prawa i obowiązki, co sprzyja aktywności obywatelskiej.
-
-3. **Wsparcie w działaniach społecznych**: Fundacja może organizować akcje protestacyjne lub wspierać pozytywne inicjatywy, co pozwala mieszkańcom skuteczniej działać na rzecz swoich interesów.
-
-4. **Monitoring działań władz**: Regularne informowanie o decyzjach urzędników oraz analiza ich wpływu na społeczność pozwoli na szybsze reagowanie na niekorzystne zmiany.
-
-5. **Mediacja w konfliktach**: Fundacja może pełnić rolę mediatora w sporach między mieszkańcami a urzędnikami, co przyczyni się do rozwiązywania problemów w sposób konstruktywny.
-
-6. **Wzmacnianie więzi społecznych**: Poprzez organizację i wsparcie wydarzeń kulturalnych i edukacyjnych sprzyjąc integracji mieszkańców oraz budowaniu silnej społeczności lokalnej.
-
-7. **Ochrona lokalnego dziedzictwa**: Poprzez promocję tradycji i lokalnego dziedzictwa Kaszub, by codziennie wspierać rozwój tożsamości regionalnej i kulturowej.
-
-Te działania mogą znacząco wpłynąć na jakość życia mieszkańców, zwiększając ich poczucie przynależności i aktywności w lokalnej społeczności.
-
-
-
-## Strategia
-
 
 Fundacja Lesok, działając w oparciu o powyższe filary strategiczne, dąży do osiągnięcia wymiernych korzyści dla społeczności gminy Szemud.
 Realizacja tych strategicznych działań ma na celu znaczącą poprawę jakości życia mieszkańców, wzmocnienie ich poczucia przynależności oraz zwiększenie aktywności w życiu lokalnej społeczności:
@@ -123,7 +96,10 @@ Organizacja akcji obywatelskich i wspieranie inicjatyw lokalnych umożliwi miesz
 Systematyczny monitoring i analiza działań urzędników pozwoli na szybkie reagowanie i kształtowanie korzystnych dla społeczności zmian.
 
 
-Dodatkowe obszary oddziaływania strategicznego:
+
+## Oddziaływanie
+
+Obszary oddziaływania strategicznego:
 
 ### Mediacja w konfliktach
 Fundacja będzie pełnić rolę bezstronnego mediatora, przyczyniając się do konstruktywnego rozwiązywania sporów.
