@@ -682,90 +682,7 @@ g) Przedsiębiorcy:
 + [rezydent.de](https://github.com/rezydent-de)
 + [Hafty kaszubskie - GOK Chojnice](https://www.gokchojnice.pl/hafty-kaszubskie/)
 
-
-## Utworzenie społeczności
-
-Znalezienie osób chętnych do aktywnego zaangażowania się w założenie i pracę na rzecz gminy poprzez Fundację Lesok wymaga strategicznego podejścia i wykorzystania różnych kanałów komunikacji.
-
-Kluczem do sukcesu jest konsekwentne działanie i budowanie zaufania w społeczności. 
-
-Niektórzy mogą chcieć pomagać regularnie, inni tylko okazjonalnie. 
-
-Trzeba stworzyć możliwości dla różnych form i poziomów zaangażowania.
-
-- Jasno komunikować cele i wartości fundacji
-- Pokazywać konkretne korzyści z zaangażowania
-- Być otwartym na pomysły i inicjatywy potencjalnych członków
-- Doceniać każdą formę zaangażowania, nawet najmniejszą
-- Tworzyć przyjazną atmosferę
-
-
-## Promocja i aktywizacja
-
-1. Spotkania informacyjne:
-- Zorganizuj otwarte spotkania w różnych częściach gminy Szemud
-- Przedstaw cele fundacji i korzyści płynące z zaangażowania
-- Zachęć do dyskusji i zbierz kontakty od zainteresowanych osób
-
-2. Media społecznościowe:
-- Stwórz profile fundacji na popularnych platformach (Facebook, Instagram)
-- Regularnie publikuj informacje o działaniach i planach
-- Wykorzystaj grupy lokalne do promocji fundacji
-
-3. Współpraca z lokalnymi liderami:
-- Zidentyfikuj aktywnych mieszkańców, liderów opinii
-- Zaproś ich do współpracy lub prośby o rekomendacje
-
-4. Partnerstwo z lokalnymi organizacjami:
-- Nawiąż kontakt z istniejącymi stowarzyszeniami, klubami, kołami gospodyń wiejskich
-- Zaproponuj współpracę i wymianę doświadczeń
-
-5. Promocja w lokalnych mediach:
-- Skontaktuj się z lokalnymi gazetami, radiostacjami
-- Zaproponuj artykuły lub wywiady na temat fundacji
-
-6. Ulotki i plakaty:
-- Rozwieszaj informacje w miejscach publicznych (sklepy, tablice ogłoszeń)
-- Rozdawaj ulotki podczas lokalnych wydarzeń
-
-7. Prezentacje w szkołach:
-- Organizuj prezentacje dla rodziców podczas zebrań szkolnych
-- Angażuj młodzież poprzez konkursy lub projekty edukacyjne
-
-8. Dni otwarte urzędu gminy:
-- Wykorzystaj oficjalne wydarzenia gminne do promocji fundacji
-- Pokaż, jak fundacja może współpracować z samorządem
-
-9. Networking na lokalnych wydarzeniach:
-- Bądź obecny na festynach, jarmarkach, imprezach sportowych
-- Przygotuj stoisko informacyjne fundacji
-
-10. Program ambasadorów:
-- Zachęć aktywnych członków do polecania fundacji znajomym
-- Stwórz system nagród lub uznania dla najaktywniejszych promotorów
-
-11. Webinary i szkolenia online:
-- Organizuj bezpłatne warsztaty na tematy ważne dla mieszkańców
-- Wykorzystaj je do przedstawienia misji fundacji
-
-12. Kampania "Poznaj swojego sąsiada":
-- Zachęcaj do lokalnych inicjatyw sąsiedzkich
-- Pokazuj, jak fundacja może wspierać takie działania
-
-13. Współpraca z lokalnymi przedsiębiorcami:
-- Zaangażuj firmy w działania CSR poprzez fundację
-- Oferuj wzajemną promocję
-
-14. Ankiety i badania potrzeb:
-- Przeprowadź badania wśród mieszkańców
-- Pokaż, jak fundacja odpowiada na zidentyfikowane potrzeby
-
-15. Program mentoringu obywatelskiego:
-- Zaproś doświadczonych działaczy do wspierania nowych członków
-- Stwórz ścieżkę rozwoju dla wolontariuszy
-
-
-## Informacja 
+## Informacja
 
 Dla mieszkańca, który nie korzysta z mediów społecznościowych, ale chciałby mieć dostęp do wszystkich interesujących go lokalnych informacji, 
 można zaproponować kilka rozwiązań. 
@@ -1085,9 +1002,25 @@ Wzmocnienie umiejętności zarządzania zasobami w lokalnych społecznościach, 
 
 
 
-
 ## Start
 
+
+### Społeczność
+
+Znalezienie osób chętnych do aktywnego zaangażowania się w założenie i pracę na rzecz gminy poprzez Fundację Lesok wymaga strategicznego podejścia i wykorzystania różnych kanałów komunikacji.
+
+Kluczem do sukcesu jest konsekwentne działanie i budowanie zaufania w społeczności poprzez lokalne informowanie się o sytuacji zwłaszcza w momentach zagrożenia.
+
+Niektórzy mogą chcieć pomagać regularnie, inni tylko okazjonalnie. 
+
+Trzeba stworzyć możliwości dla różnych form i poziomów zaangażowania.
+
+- Jasno komunikować cele i wartości fundacji
+- Pokazywać konkretne korzyści z zaangażowania
+- Być otwartym na pomysły i inicjatywy potencjalnych członków
+- Doceniać każdą formę zaangażowania, nawet najmniejszą
+- Tworzyć przyjazną atmosferę
+  
 Aby skutecznie rozpocząć działalność Fundacji Lesok i uzyskać wsparcie przy jej tworzeniu, warto w pierwszej kolejności skontaktować się z następującymi osobami i grupami:
 
 1. Lokalni liderzy społeczni:
@@ -1134,7 +1067,75 @@ Aby skutecznie rozpocząć działalność Fundacji Lesok i uzyskać wsparcie prz
 
 
 
-### Co zrobić?
+
+## Zadania
+
+### Spotkania informacyjne:
+- Zorganizuj otwarte spotkania w różnych częściach gminy Szemud
+- Przedstaw cele fundacji i korzyści płynące z zaangażowania
+- Zachęć do dyskusji i zbierz kontakty od zainteresowanych osób
+
+### Media społecznościowe:
+- Stwórz profile fundacji na popularnych platformach (Facebook, Instagram)
+- Regularnie publikuj informacje o działaniach i planach
+- Wykorzystaj grupy lokalne do promocji fundacji
+
+### Współpraca z lokalnymi liderami:
+- Zidentyfikuj aktywnych mieszkańców, liderów opinii
+- Zaproś ich do współpracy lub prośby o rekomendacje
+
+### Partnerstwo z lokalnymi organizacjami:
+- Nawiąż kontakt z istniejącymi stowarzyszeniami, klubami, kołami gospodyń wiejskich
+- Zaproponuj współpracę i wymianę doświadczeń
+
+### Promocja w lokalnych mediach:
+- Skontaktuj się z lokalnymi gazetami, radiostacjami
+- Zaproponuj artykuły lub wywiady na temat fundacji
+
+### Ulotki i plakaty:
+- Rozwieszaj informacje w miejscach publicznych (sklepy, tablice ogłoszeń)
+- Rozdawaj ulotki podczas lokalnych wydarzeń
+
+### Prezentacje w szkołach:
+- Organizuj prezentacje dla rodziców podczas zebrań szkolnych
+- Angażuj młodzież poprzez konkursy lub projekty edukacyjne
+
+### Dni otwarte urzędu gminy:
+- Wykorzystaj oficjalne wydarzenia gminne do promocji fundacji
+- Pokaż, jak fundacja może współpracować z samorządem
+
+### Networking na lokalnych wydarzeniach:
+- Bądź obecny na festynach, jarmarkach, imprezach sportowych
+- Przygotuj stoisko informacyjne fundacji
+
+### Program ambasadorów:
+- Zachęć aktywnych członków do polecania fundacji znajomym
+- Stwórz system nagród lub uznania dla najaktywniejszych promotorów
+
+### Webinary i szkolenia online:
+- Organizuj bezpłatne warsztaty na tematy ważne dla mieszkańców
+- Wykorzystaj je do przedstawienia misji fundacji
+
+### Kampania "Poznaj swojego sąsiada":
+- Zachęcaj do lokalnych inicjatyw sąsiedzkich
+- Pokazuj, jak fundacja może wspierać takie działania
+
+### Współpraca z lokalnymi przedsiębiorcami:
+- Zaangażuj firmy w działania CSR poprzez fundację
+- Oferuj wzajemną promocję
+
+### Ankiety i badania potrzeb:
+- Przeprowadź badania wśród mieszkańców
+- Pokaż, jak fundacja odpowiada na zidentyfikowane potrzeby
+
+### Program mentoringu obywatelskiego:
+- Zaproś doświadczonych działaczy do wspierania nowych członków
+- Stwórz ścieżkę rozwoju dla wolontariuszy
+
+
+
+
+## Wolontariusz / Ambasador / Partner
 
 1. Stwórz listę kontaktową: Zbierz dane kontaktowe do wymienionych wyżej osób i grup.
 
@@ -1156,5 +1157,7 @@ Aby skutecznie rozpocząć działalność Fundacji Lesok i uzyskać wsparcie prz
 
 10. Zorganizuj pierwsze wydarzenie publiczne: Np. debatę na temat ważnego lokalnego problemu, aby pokazać działanie fundacji w praktyce.
 
-Pamiętaj, że kluczowe jest budowanie relacji i zaufania w społeczności. Pokaż, że fundacja jest otwarta na współpracę i faktycznie działa na rzecz dobra wspólnego. Bądź przygotowany na pytania i wątpliwości, ale też na entuzjazm i chęć pomocy ze strony mieszkańców.
+Kluczowe jest budowanie relacji i zaufania w społeczności.
++ Pokaż, że fundacja jest otwarta na współpracę i faktycznie działa na rzecz dobra wspólnego. 
++ Bądź przygotowany na pytania i wątpliwości, ale też na entuzjazm i chęć pomocy ze strony mieszkańców.
 
