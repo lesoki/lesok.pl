@@ -604,71 +604,6 @@ Oto przegląd form aktywności i kooperacji z mieszkańcami gminy, które mogą 
 Skuteczna implementacja tych form aktywności i kooperacji wymaga otwartości władz gminy, zaangażowania mieszkańców oraz odpowiedniej komunikacji. Kluczowe jest dostosowanie tych działań do specyfiki lokalnej społeczności, jej potrzeb i możliwości. Ważne jest również, aby efekty tych działań były widoczne i komunikowane, co zachęci mieszkańców do dalszego zaangażowania.
 
 
-## Priorytety
-
-Aktywizacja rodziców dzieci uczęszczających do szkoły podstawowej w gminie jest kluczowa dla budowania silnej społeczności edukacyjnej.
-Warto eksperymentować z różnymi formami aktywizacji i być otwartym na sugestie samych rodziców, by pokazać, że ich zaangażowanie ma realny wpływ na jakość edukacji ich dzieci i funkcjonowanie szkoły.
-
-1. Stworzenie Rady Rodziców online:
-- Utworzenie platformy internetowej lub grupy w mediach społecznościowych dla rodziców
-- Regularne udostępnianie informacji o życiu szkoły i planowanych zmianach
-- Organizacja ankiet online dotyczących ważnych decyzji szkolnych
-
-2. Warsztaty i szkolenia dla rodziców:
-- Organizacja spotkań edukacyjnych na tematy związane z wychowaniem i edukacją
-- Zapraszanie ekspertów do prowadzenia warsztatów (np. psychologów dziecięcych, pedagogów)
-
-3. Dni otwarte i festyny szkolne:
-- Organizacja wydarzeń, gdzie rodzice mogą aktywnie uczestniczyć w życiu szkoły
-- Angażowanie rodziców w przygotowania i prowadzenie stoisk czy atrakcji
-
-4. Program mentoringu rodzicielskiego:
-- Łączenie doświadczonych rodziców z nowymi w systemie "buddy"
-- Ułatwianie adaptacji nowym rodzinom w społeczności szkolnej
-
-5. Projekty "Rodzice-Dzieciom":
-- Zachęcanie rodziców do dzielenia się swoimi umiejętnościami czy wiedzą zawodową z uczniami
-- Organizacja zajęć pozalekcyjnych prowadzonych przez chętnych rodziców
-
-6. Komitety tematyczne:
-- Tworzenie grup roboczych zajmujących się konkretnymi aspektami życia szkoły (np. bezpieczeństwo, zdrowe żywienie, ekologia)
-
-7. Newsletter dla rodziców:
-- Regularne wysyłanie informacji o życiu szkoły, sukcesach uczniów i nadchodzących wydarzeniach
-
-8. Dni kariery z udziałem rodziców:
-- Zapraszanie rodziców do prezentowania swoich zawodów uczniom
-
-9. Rodzicielski budżet partycypacyjny:
-- Umożliwienie rodzicom zgłaszania i głosowania nad małymi projektami do realizacji w szkole
-
-10. Wspólne akcje charytatywne:
-- Organizacja zbiórek czy imprez charytatywnych angażujących całe rodziny
-
-11. Kluby zainteresowań dla rodziców i dzieci:
-- Tworzenie przestrzeni do wspólnego rozwijania pasji (np. klub czytelniczy, sportowy)
-
-12. Regularne "kawy z dyrektorem":
-- Nieformalne spotkania z dyrekcją szkoły, umożliwiające swobodną wymianę myśli
-
-13. Szkolne grupy wsparcia:
-- Tworzenie grup dla rodziców dzieci z szczególnymi potrzebami edukacyjnymi
-
-14. Wolontariat rodzinny:
-- Organizacja akcji, w których rodziny mogą wspólnie pomagać społeczności lokalnej
-
-15. Konkursy rodzinne:
-- Organizacja zawodów czy quizów, w których uczestniczą całe rodziny
-
-
-### Kluczowe dla sukcesu tych inicjatyw jest:
-
-- Regularna komunikacja i informowanie o efektach działań
-- Elastyczność w planowaniu spotkań (uwzględnianie różnych godzin dla pracujących rodziców)
-- Docenianie i nagradzanie aktywności rodziców
-- Tworzenie przyjaznej, otwartej atmosfery zachęcającej do zaangażowania
-
-
 
 
 ## Cel działania fundacji
@@ -963,7 +898,7 @@ Finansowanie ochrony prawnej wymaga szczególnej uwagi:
 
 
 
-## Media
+## Informowanie przez lokalne media
 
 Organizacja Podcastu i Kanału YouTube dla gminy to świetny sposób na dotarcie do szerszego grona odbiorców i zaangażowanie mieszkańców. 
 Kluczem do sukcesu jest regularność, konsekwencja i jakość treści. 
@@ -1066,8 +1001,76 @@ Bądź otwarty na feedback i ciągle doskonalcie swoje treści, aby jak najlepie
 
 ## Edukacja
 
+
+### Edukacja dzieci, aktywizacja roli rodziców
+
+Aktywizacja rodziców dzieci uczęszczających do szkoły podstawowej w gminie jest kluczowa dla budowania silnej społeczności edukacyjnej.
+Warto eksperymentować z różnymi formami aktywizacji i być otwartym na sugestie samych rodziców, by pokazać, że ich zaangażowanie ma realny wpływ na jakość edukacji ich dzieci i funkcjonowanie szkoły.
+
+1. Stworzenie Rady Rodziców online:
+- Utworzenie platformy internetowej lub grupy w mediach społecznościowych dla rodziców
+- Regularne udostępnianie informacji o życiu szkoły i planowanych zmianach
+- Organizacja ankiet online dotyczących ważnych decyzji szkolnych
+
+2. Warsztaty i szkolenia dla rodziców:
+- Organizacja spotkań edukacyjnych na tematy związane z wychowaniem i edukacją
+- Zapraszanie ekspertów do prowadzenia warsztatów (np. psychologów dziecięcych, pedagogów)
+
+3. Dni otwarte i festyny szkolne:
+- Organizacja wydarzeń, gdzie rodzice mogą aktywnie uczestniczyć w życiu szkoły
+- Angażowanie rodziców w przygotowania i prowadzenie stoisk czy atrakcji
+
+4. Program mentoringu rodzicielskiego:
+- Łączenie doświadczonych rodziców z nowymi w systemie "buddy"
+- Ułatwianie adaptacji nowym rodzinom w społeczności szkolnej
+
+5. Projekty "Rodzice-Dzieciom":
+- Zachęcanie rodziców do dzielenia się swoimi umiejętnościami czy wiedzą zawodową z uczniami
+- Organizacja zajęć pozalekcyjnych prowadzonych przez chętnych rodziców
+
+6. Komitety tematyczne:
+- Tworzenie grup roboczych zajmujących się konkretnymi aspektami życia szkoły (np. bezpieczeństwo, zdrowe żywienie, ekologia)
+
+7. Newsletter dla rodziców:
+- Regularne wysyłanie informacji o życiu szkoły, sukcesach uczniów i nadchodzących wydarzeniach
+
+8. Dni kariery z udziałem rodziców:
+- Zapraszanie rodziców do prezentowania swoich zawodów uczniom
+
+9. Rodzicielski budżet partycypacyjny:
+- Umożliwienie rodzicom zgłaszania i głosowania nad małymi projektami do realizacji w szkole
+
+10. Wspólne akcje charytatywne:
+- Organizacja zbiórek czy imprez charytatywnych angażujących całe rodziny
+
+11. Kluby zainteresowań dla rodziców i dzieci:
+- Tworzenie przestrzeni do wspólnego rozwijania pasji (np. klub czytelniczy, sportowy)
+
+12. Regularne "kawy z dyrektorem":
+- Nieformalne spotkania z dyrekcją szkoły, umożliwiające swobodną wymianę myśli
+
+13. Szkolne grupy wsparcia:
+- Tworzenie grup dla rodziców dzieci z szczególnymi potrzebami edukacyjnymi
+
+14. Wolontariat rodzinny:
+- Organizacja akcji, w których rodziny mogą wspólnie pomagać społeczności lokalnej
+
+15. Konkursy rodzinne:
+- Organizacja zawodów czy quizów, w których uczestniczą całe rodziny
+
+
+### Kluczowe dla sukcesu tych inicjatyw jest:
+
+- Regularna komunikacja i informowanie o efektach działań
+- Elastyczność w planowaniu spotkań (uwzględnianie różnych godzin dla pracujących rodziców)
+- Docenianie i nagradzanie aktywności rodziców
+- Tworzenie przyjaznej, otwartej atmosfery zachęcającej do zaangażowania
+
+
+### Edukacja dla dorosłych
+
 Edukacja to podstawa długofalowego kształtowania rezultatów w regionie, tym lepsza im większa jest świadomość wyzwań,
-korzyści z uczestnictwa z dodatkowej edukacji pozwoli na zwięksenie sprwczości poprzez większą świadomość.
+korzyści z uczestnictwa z dodatkowej edukacji pozwoli na zwięksenie sprawczości poprzez większą świadomość.
 Użycie najnowszych technologii pozwoli na łatwy dostęp do materiałów i samodzielną pracę z nimi.
 
 - **Elastyczność:** Ucz się w dogodnym dla siebie tempie, z dowolnego miejsca.
@@ -1079,44 +1082,44 @@ Użycie najnowszych technologii pozwoli na łatwy dostęp do materiałów i samo
 
 
  
-### Szkoła Liderów
+#### Szkoła Liderów
 
 Wzmocnienie kompetencji liderów, poprawa umiejętności zarządzania zespołami, budowanie wizji i strategii oraz rozwijanie zdolności motywowania innych.
 
-#### Moduły:
+Moduły:
  - Sztuka Przywództwa
  - Strategiczne Planowanie
  - Komunikacja jako Klucz do Sukcesu
  - Zarządzanie Konfliktami i Motywacja
 
 
-### Szkoła Przemawiania
+#### Szkoła Przemawiania
 
 Podniesienie umiejętności przemawiania publicznego, budowanie pewności siebie, techniki prezentacji oraz skuteczne przekazywanie informacji.
 
-#### Moduły:
+Moduły:
  - Wprowadzenie do Przemawiania
  - Techniki Retoryki i Retoryka Współczesna
  - Warsztaty Praktyczne z Przemówień
  - Zarządzanie Stresem podczas Przemówień
 
 
-### Kurs Prawa i Ekonomii
+#### Kurs Prawa i Ekonomii
 
 Zapewnienie solidnych podstaw w zakresie prawa oraz ekonomii, niezbędnych do rozumienia mechanizmów rynkowych i prawnych oraz podejmowania świadomych decyzji biznesowych.
 
-#### Moduły:
+Moduły:
  - Wprowadzenie do Prawa: Podstawy i Zasady
  - Podstawy Ekonomii: Mikroekonomia i Makroekonomia
  - Prawo Gospodarcze i Handlowe
  - Finanse i Realizacja Celów Ekonomicznych
 
 
-### Kurs Zarządzania
+#### Kurs Zarządzania
 
 Wzmocnienie umiejętności zarządzania zasobami w lokalnych społecznościach, rozwijanie przedsiębiorczości oraz efektywne zarządzanie małym przedsiębiorstwem.
 
-#### Moduły:
+Moduły:
  - Zarządzanie Zasobami
  - Przedsiębiorczość w Małych Społecznościach
  - Finanse i Budżetowanie dla Małych Przedsiębiorstw
