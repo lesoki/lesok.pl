@@ -1,7 +1,9 @@
-# [Fundacja Lesok - razem, lepiej, na pokolenia!](http://www.lesok.pl)
+# [Fundacja Lesok - dla pokoleń](http://www.lesok.pl)
 + ostatnia aktualizacja 19.09.2024
 
-## Drodzy mieszkańcy gminy Szemud!
+---
+
+Drodzy mieszkańcy gminy Szemud!
 
 - Czy czujecie czasem, że ważne decyzje dotyczące naszej gminy przechodzą obok Was niezauważone? 
 - Czy macie wrażenie, że brakuje Wam informacji o planach samorządu, które mogą wpłynąć na Wasze codzienne życie? 
@@ -18,17 +20,15 @@ Chcemy, aby każdy z Was miał dostęp do informacji o tym, co dzieje się w nas
 Wybory odbywają się co kilka lat na wójta, radnego czy sołtysa a istotne decyzje w gminie zapadają codziennie, jak mieć na nie wpływ?
 
 
-
+---
 
 ![image](https://github.com/user-attachments/assets/3e3514ab-72ba-46ea-9681-1d6eec6c1464)
-
-## Fundacja Lesok - dla pokoleń
 
 **"Fundacja Lesok"** skupia się na ochronie tradycji i lokalnego dziedzictwa Kaszub.
 Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność, działanie na rzecz przyszłych generacji. 
 - W ramach promocji będą dostępne podkładki do napojów z dodatkiem aromatu "lasu".
 
-
+---
 
 ### Fundacja Lesok - razem, lepiej ... na pokolenia
 
