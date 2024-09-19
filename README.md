@@ -96,7 +96,7 @@ Dla świadomej osoby autorytetem jest **prawda**, budowana na **hierarchii warto
 Prawda jest jedna i nie musisz jej znać, by uniknąć kłopotów:
 - wystarczy **rozpoznać fałsz**.
 
-Relatywizm sprowadza prawdę do jednej z opcji a liczy się ten, kto jest silniejszy i ma wpływy.
+Relatywizm sprowadza **prawdę** do jednej z **opcji** a liczy się ta **opcja**, którą forsuje **silniejszy** lub **głośniejszy**
 Każdego (niezależnie od statusu) można ocenić wobec kryteriów prawdy bazującej na hierarchii wartości.
 
 
