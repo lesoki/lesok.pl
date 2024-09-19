@@ -147,8 +147,8 @@ Zaangażowanie w działania takie jak te proponowane przez Fundację Lesok nie t
 
 ## Filozofia 
 
-Kluczem do uzyskania długofalwoych rezultatów jest zrozumienie rzeczywistości, polegając na świadomej ocenie i działaniu.
-Konieczna jest właściwa, świadoma w kontekście społeczności ocena sytuacji i dobranie odpowiednich metod w konkretnym miejscu i czasie.
+Kluczem do uzyskania długofalowych i trwałych rezultatów jest zrozumienie rzeczywistości.
+Konieczna jest właściwa, świadoma (w kontekście całej społeczności) ocena sytuacji i dobranie odpowiednich metod w konkretnym miejscu i czasie.
 Jako Fundacja zawsze będziemy mieli ograniczone środki i zasoby, dlatego musimy wpływać na otaczającą rzeczywistość miejscowo, uderzać w te struny, które wprowadzą w rezonans społeczność małym kosztem, potegując korzystne skutki dla całej społeczności.
 
 
