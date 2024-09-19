@@ -136,32 +136,43 @@ Wybór fundacji zamiast stowarzyszenia może wynikać z następujących powodów
 - Niezależność: Fundacje są bardziej niezależne od członków niż stowarzyszenia, co może być korzystne w przypadku realizacji długoterminowych celów.
 - Łatwiejsze pozyskiwanie środków: W niektórych przypadkach fundacje mogą mieć łatwiejszy dostęp do grantów i dotacji.
 
-### Dlaczego nie zostawić spraw organom centralnym i lokalnym
+### Dlaczego nie zostawić spraw organom centralnym i lokalnym?
 
 Zostawienie spraw organom centralnym i lokalnym może wydawać się wygodne, ale niesie ze sobą ryzyko, że mieszkańcy stracą kontrolę nad swoimi interesami.
+Zaangażowanie w działania takie jak te proponowane przez Fundację Lesok nie tylko wzmacnia głos mieszkańców, ale także przyczynia się do lepszego zarządzania gminą i poprawy jakości życia w społeczności.
+
 Oto kilka kluczowych powodów, dlaczego warto angażować się w lokalne inicjatywy:
 
-1. **Aktywny wpływ na decyzje**: Mieszkańcy mają możliwość bezpośredniego wpływania na decyzje podejmowane przez samorząd. Bez aktywnego zaangażowania, ważne sprawy mogą być pomijane lub ignorowane.
+#### 1. Aktywny wpływ na decyzje
+Mieszkańcy mają możliwość bezpośredniego wpływania na decyzje podejmowane przez samorząd. Bez aktywnego zaangażowania, ważne sprawy mogą być pomijane lub ignorowane.
 
-2. **Lepsza komunikacja**: Fundacja Lesok działa jako pośrednik, który poprawia przepływ informacji między mieszkańcami a władzami. Pozwala to na bieżąco śledzenie działań samorządu i zrozumienie ich wpływu na codzienne życie.
+#### Lepsza komunikacja
+Fundacja Lesok działa jako pośrednik, który poprawia przepływ informacji między mieszkańcami a władzami. Pozwala to na bieżąco śledzenie działań samorządu i zrozumienie ich wpływu na codzienne życie.
 
-3. **Edukacja i wsparcie**: Fundacja oferuje edukację obywatelską, co zwiększa świadomość mieszkańców o ich prawach oraz możliwościach działania. To z kolei prowadzi do bardziej świadomego uczestnictwa w życiu lokalnym.
+#### Edukacja i wsparcie
+Fundacja oferuje edukację obywatelską, co zwiększa świadomość mieszkańców o ich prawach oraz możliwościach działania. To z kolei prowadzi do bardziej świadomego uczestnictwa w życiu lokalnym.
 
-4. **Zwiększenie transparentności**: Angażując się w lokalne inicjatywy, mieszkańcy mogą przyczynić się do większej przejrzystości działań samorządu, co buduje zaufanie społeczności do władz lokalnych.
+#### Zwiększenie transparentności
+Angażując się w lokalne inicjatywy, mieszkańcy mogą przyczynić się do większej przejrzystości działań samorządu, co buduje zaufanie społeczności do władz lokalnych.
 
-5. **Mediacja w konfliktach**: Fundacja może pełnić rolę mediatora w sporach między mieszkańcami a urzędnikami, co sprzyja konstruktywnemu rozwiązywaniu problemów.
+#### Mediacja w konfliktach
+Fundacja może pełnić rolę mediatora w sporach między mieszkańcami a urzędnikami, co sprzyja konstruktywnemu rozwiązywaniu problemów.
 
-6. **Długofalowe zmiany**: Spontaniczne działania często przynoszą krótkoterminowe efekty. Fundacja zapewnia ciągłość działań i długofalowe podejście do rozwiązywania problemów społecznych.
+#### Długofalowe zmiany
+Spontaniczne działania często przynoszą krótkoterminowe efekty. Fundacja zapewnia ciągłość działań i długofalowe podejście do rozwiązywania problemów społecznych.
 
-7. **Integracja społeczności**: Aktywne uczestnictwo w fundacji sprzyja budowaniu silnych więzi między mieszkańcami, co jest kluczowe dla zdrowego funkcjonowania społeczności lokalnej.
+#### Integracja społeczności
+Aktywne uczestnictwo w fundacji sprzyja budowaniu silnych więzi między mieszkańcami, co jest kluczowe dla zdrowego funkcjonowania społeczności lokalnej.
 
-Zaangażowanie w działania takie jak te proponowane przez Fundację Lesok nie tylko wzmacnia głos mieszkańców, ale także przyczynia się do lepszego zarządzania gminą i poprawy jakości życia w społeczności.
+
+
 
 
 ### Jaki ma sens tworzenie nowych kanałów w dobie zalewu informacji?
 
 Tworzenie nowych kanałów komunikacji w dobie zalewu informacji ma istotne znaczenie dla Fundacji Lesok, szczególnie w kontekście jej hierarchii wartości i celów.
-
+Jest spójne z hierarchią wartości Fundacji Lesok i pozwala na skuteczniejszą realizację jej celów, takich jak zwiększenie wpływu mieszkańców na sprawy lokalne, poprawa komunikacji z samorządem oraz budowanie silnej, świadomej społeczności gminy Szemud.
+ 
 #### Poprawa komunikacji z mieszkańcami
 Fundacja stawia na usprawnienie komunikacji między mieszkańcami a instytucjami (samorząd, rząd), co jest kluczowe dla zapewnienia efektywnego przepływu informacji o decyzjach i planach gminy. Nowe kanały, takie jak podcasty czy lokalne serwisy informacyjne, mogą skupić się na najważniejszych tematach, ułatwiając mieszkańcom śledzenie bieżących wydarzeń.
 
@@ -174,12 +185,12 @@ Nowe kanały komunikacji mogą być wykorzystywane do prowadzenia działań eduk
 #### Dostosowanie do różnych grup społecznych
 Nowe kanały mogą być projektowane tak, aby odpowiadały potrzebom różnych grup wiekowych i społecznych, w tym osób wykluczonych cyfrowo. Umożliwia to dotarcie do szerszego grona mieszkańców i zapewnienie im dostępu do istotnych informacji, co wpisuje się w misję Fundacji, jaką jest aktywizacja wszystkich mieszkańców.
 
-Podsumowując, tworzenie nowych kanałów komunikacji jest spójne z hierarchią wartości Fundacji Lesok i pozwala na skuteczniejszą realizację jej celów, takich jak zwiększenie wpływu mieszkańców na sprawy lokalne, poprawa komunikacji z samorządem oraz budowanie silnej, świadomej społeczności gminy Szemud.
 
 
 ### Jak Fundacja Lesok planuje zwiększyć zaangażowanie mieszkańców?
 
 Fundacja Lesok planuje zwiększyć zaangażowanie mieszkańców gminy Szemud poprzez różnorodne inicjatywy, które mają na celu aktywizację społeczną oraz poprawę komunikacji między mieszkańcami a samorządem.
+Te działania mają na celu nie tylko zwiększenie zaangażowania obywatelskiego, ale także budowanie silnej, świadomej wspólnoty lokalnej, która aktywnie uczestniczy w życiu gminy.
 Oto kluczowe sposoby:
 
 #### 1. Edukacja obywatelska
@@ -212,7 +223,7 @@ Angażowanie mieszkańców w organizację lokalnych imprez oraz promowanie kultu
 #### 10. Media lokalne
 Fundacja zamierza stworzyć podcasty oraz kanały YouTube, aby dotrzeć do szerszego grona odbiorców i angażować mieszkańców w dyskusje o sprawach lokalnych.
 
-Te działania mają na celu nie tylko zwiększenie zaangażowania obywatelskiego, ale także budowanie silnej, świadomej wspólnoty lokalnej, która aktywnie uczestniczy w życiu gminy.
+
 
 
 ## Filozofia 
