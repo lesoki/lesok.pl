@@ -160,7 +160,59 @@ Zaangażowanie w działania takie jak te proponowane przez Fundację Lesok nie t
 
 ### Jaki ma sens tworzenie nowych kanałów w dobie zalewu informacji?
 
+Tworzenie nowych kanałów komunikacji w dobie zalewu informacji ma istotne znaczenie dla Fundacji Lesok, szczególnie w kontekście jej hierarchii wartości i celów.
 
+## Poprawa komunikacji z mieszkańcami
+Fundacja stawia na usprawnienie komunikacji między mieszkańcami a instytucjami (samorząd, rząd), co jest kluczowe dla zapewnienia efektywnego przepływu informacji o decyzjach i planach gminy. Nowe kanały, takie jak podcasty czy lokalne serwisy informacyjne, mogą skupić się na najważniejszych tematach, ułatwiając mieszkańcom śledzenie bieżących wydarzeń.
+
+## Zwiększenie zaangażowania obywatelskiego
+Budowanie platform do dyskusji i interakcji sprzyja aktywnemu uczestnictwu mieszkańców w życiu lokalnym, co jest priorytetem Fundacji. Dzięki nowym kanałom obywatele mogą wyrażać swoje opinie i pomysły, co zwiększa ich poczucie wpływu na decyzje podejmowane przez samorząd.
+
+## Edukacja obywatelska
+Nowe kanały komunikacji mogą być wykorzystywane do prowadzenia działań edukacyjnych, zwiększających świadomość mieszkańców na temat ich praw oraz możliwości wpływania na sprawy gminy. Jest to zgodne z celem Fundacji, jakim jest podnoszenie świadomości obywatelskiej poprzez programy edukacyjne.
+
+## Dostosowanie do różnych grup społecznych
+Nowe kanały mogą być projektowane tak, aby odpowiadały potrzebom różnych grup wiekowych i społecznych, w tym osób wykluczonych cyfrowo. Umożliwia to dotarcie do szerszego grona mieszkańców i zapewnienie im dostępu do istotnych informacji, co wpisuje się w misję Fundacji, jaką jest aktywizacja wszystkich mieszkańców.
+
+Podsumowując, tworzenie nowych kanałów komunikacji jest spójne z hierarchią wartości Fundacji Lesok i pozwala na skuteczniejszą realizację jej celów, takich jak zwiększenie wpływu mieszkańców na sprawy lokalne, poprawa komunikacji z samorządem oraz budowanie silnej, świadomej społeczności gminy Szemud.
+
+
+### Jak Fundacja Lesok planuje zwiększyć zaangażowanie mieszkańców?
+
+Fundacja Lesok planuje zwiększyć zaangażowanie mieszkańców gminy Szemud poprzez różnorodne inicjatywy, które mają na celu aktywizację społeczną oraz poprawę komunikacji między mieszkańcami a samorządem.
+Oto kluczowe sposoby:
+
+#### 1. Edukacja obywatelska
+Fundacja zamierza prowadzić programy edukacyjne, które zwiększą świadomość mieszkańców na temat ich praw i funkcjonowania samorządu. Działania te będą skierowane do różnych grup wiekowych, w tym do osób wykluczonych cyfrowo, co ma na celu zapewnienie dostępu do informacji dla wszystkich.
+
+#### 2. Konsultacje społeczne
+Organizacja spotkań otwartych oraz ankiet online i offline pozwoli mieszkańcom na wyrażenie swoich opinii i pomysłów dotyczących ważnych decyzji gminy. To umożliwi aktywne uczestnictwo w procesie decyzyjnym.
+
+#### 3. Budżet obywatelski
+Wprowadzenie budżetu obywatelskiego umożliwi mieszkańcom zgłaszanie i głosowanie nad projektami lokalnymi, co zwiększy ich wpływ na wydatki gminne.
+
+#### 4. Lokalne grupy działania
+Tworzenie grup skupiających mieszkańców, organizacje i przedsiębiorców pozwoli na wspólne planowanie i realizację projektów rozwojowych, co wzmocni poczucie wspólnoty.
+
+#### 5. Wolontariat i akcje społeczne
+Fundacja planuje organizować dni sprzątania okolicy oraz zbiórki charytatywne, angażując mieszkańców w działania na rzecz społeczności.
+
+#### 6. Rady sołeckie i osiedlowe
+Wzmocnienie roli rad jako pośredników między mieszkańcami a władzami gminy umożliwi regularne zbieranie opinii i pomysłów od społeczności.
+
+#### 7. Warsztaty i szkolenia
+Organizacja warsztatów dotyczących praw obywatelskich oraz umiejętności przydatnych w życiu społeczności ma na celu rozwijanie kompetencji mieszkańców.
+
+#### 8. Lokalne festyny i wydarzenia kulturalne
+Angażowanie mieszkańców w organizację lokalnych imprez oraz promowanie kultury kaszubskiej przyczyni się do integracji społecznej.
+
+#### 9. Programy mentoringowe
+Łączenie doświadczonych działaczy społecznych z nowymi aktywistami pomoże w transferze wiedzy i umiejętności potrzebnych do skutecznego działania na rzecz społeczności.
+
+#### 10. Media lokalne
+Fundacja zamierza stworzyć podcasty oraz kanały YouTube, aby dotrzeć do szerszego grona odbiorców i angażować mieszkańców w dyskusje o sprawach lokalnych.
+
+Te działania mają na celu nie tylko zwiększenie zaangażowania obywatelskiego, ale także budowanie silnej, świadomej wspólnoty lokalnej, która aktywnie uczestniczy w życiu gminy.
 
 
 ## Filozofia 
@@ -214,6 +266,40 @@ Oznacza to, że w procesie samopoznania kierujemy się pewnymi priorytetami i za
 Co istotne, ta hierarchia wartości ma być **udowodniona praktyką** - czyli wynika z rzeczywistych doświadczeń i sprawdzonych działań, a nie tylko z teoretycznych rozważań.
 
 
+
+### Hierarchia wartości
+
+Ta hierarchia wartości odzwierciedla priorytety Fundacji Lesok w kontekście jej misji i celów, które mają na celu aktywizację mieszkańców oraz poprawę komunikacji z samorządem, uwzględniając poziom ważności, od najważniejszej:
+
+#### 1. Mieszkańcy  
+Najważniejszym elementem działalności fundacji są mieszkańcy gminy Szemud. Ich głos i aktywne uczestnictwo w życiu lokalnym są kluczowe dla funkcjonowania samorządu oraz dla realizacji projektów, które mają na celu poprawę jakości życia w społeczności.
+
+#### 2. Informacja  
+Usprawnienie komunikacji między mieszkańcami a instytucjami (samorząd, rząd) jest niezbędne do zapewnienia efektywnego przepływu informacji o decyzjach i planach gminy.
+
+#### 3. Edukacja obywatelska  
+Podnoszenie świadomości obywatelskiej poprzez programy edukacyjne jest istotne, aby mieszkańcy mogli lepiej rozumieć swoje prawa i obowiązki oraz aktywnie uczestniczyć w procesach decyzyjnych.
+
+#### 4. Aktywizacja społeczna  
+Organizacja akcji obywatelskich i wsparcie lokalnych inicjatyw pozwala mieszkańcom skuteczniej działać na rzecz wspólnego dobra.
+
+#### 5. Monitoring i analiza działań urzędników  
+Systematyczne monitorowanie działań samorządu zapewnia możliwość szybkiej reakcji na nieprawidłowości oraz kształtowanie korzystnych zmian dla społeczności.
+
+#### 6. Ochrona dziedzictwa kulturowego  
+Promocja tradycji i lokalnego dziedzictwa Kaszub wspiera rozwój tożsamości regionalnej, co jest istotne dla budowania silnej wspólnoty lokalnej.
+
+#### 7. Mediacja w konfliktach  
+Pełnienie roli mediatora w sporach między mieszkańcami a urzędnikami sprzyja konstruktywnemu rozwiązywaniu problemów i zwiększa zaufanie do instytucji.
+
+#### 8. Integracja społeczna  
+Organizowanie wydarzeń kulturalnych i edukacyjnych ma na celu wzmacnianie więzi społecznych oraz budowanie silnej wspólnoty lokalnej.
+
+#### 9. Długofalowe zmiany  
+Działania fundacji powinny być ukierunkowane na długofalowe efekty, co oznacza planowanie działań z myślą o przyszłych pokoleniach.
+
+#### 10. Innowacje społeczne  
+Wspieranie innowacyjnych rozwiązań może przyczynić się do lepszego zarządzania gminą oraz poprawy jakości życia mieszkańców.
 
 
 
@@ -579,6 +665,26 @@ Warto eksperymentować z różnymi formami aktywizacji i być otwartym na sugest
 W celu zwiększenia jakości życia mieszkańców i udrożeninia komunikacji w kontekście aktualnych i przyszłych potrzeb mieszkańców.
 
 Ważne jest, aby władze lokalne i organizacje pozarządowe współpracowały w celu identyfikacji i rozwiązywania tych problemów, uwzględniając specyficzne potrzeby różnych grup mieszkańców.
+
+Najważniejsze cele Fundacji Lesok to:
+
+### 1. Aktywizacja mieszkańców i zwiększenie ich wpływu na samorząd
+Fundacja chce być głosem mieszkańców gminy Szemud, umożliwiając im aktywny udział w kształtowaniu decyzji samorządu. Celem jest zwiększenie zaangażowania obywatelskiego i realnego wpływu na życie w gminie.
+
+### 2. Poprawa komunikacji między mieszkańcami a samorządem
+Fundacja dąży do usprawnienia przepływu informacji między obywatelami a władzami, aby mieszkańcy mieli lepszy dostęp do informacji o decyzjach i planach gminy. Zwiększy to świadomość i zaangażowanie społeczności lokalnej.
+
+### 3. Edukacja obywatelska i podnoszenie świadomości praw mieszkańców
+Poprzez programy edukacyjne, Fundacja chce przyczynić się do lepszego zrozumienia przez mieszkańców ich roli i możliwości wpływania na sprawy lokalne. Poprawi to jakość partycypacji społecznej.
+
+### 4. Ochrona dziedzictwa kulturowego Kaszub
+Fundacja skupia się na promocji tradycji i lokalnego dziedzictwa Kaszub, aby wspierać rozwój tożsamości regionalnej. Działania te mają na celu budowanie silnej, świadomej społeczności lokalnej.
+
+### 5. Aktywizacja społeczna i wspieranie lokalnych inicjatyw
+Organizując akcje obywatelskie i pomagając w realizacji inicjatyw mieszkańców, Fundacja chce umożliwić skuteczniejsze działanie na rzecz wspólnego dobra. Wzmocni to poczucie sprawczości i odpowiedzialności za najbliższe otoczenie.
+
+Podsumowując, nadrzędnym celem Fundacji Lesok jest zwiększenie wpływu mieszkańców na sprawy lokalne, poprawa komunikacji z samorządem oraz budowanie silnej, świadomej społeczności gminy Szemud, dumnej ze swojego dziedzictwa.
+
 
 Oto przegląd głównych problemów dotyczących obywateli w gminach wiejskich oraz specyficznych grup na obszarach wiejskich:
 
