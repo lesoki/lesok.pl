@@ -30,31 +30,20 @@ Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność
 
 
 
-## Korzyści dla społeczności
+### Fundacja Lesok - razem, lepiej ... na pokolenia
 
-Filary naszej Strategii 
-```
-Informacja -> Edukacja -> Działanie -> Kształtowanie
-```
+Fundacja Lesok jest odpowiedzią na problemy związane z przepływem informacji między samorządem a obywatelami i wynikającymi z tego powodu skutkami.
 
-Fundacja Lesok może przynieść szereg konkretnych korzyści dla społeczności gminy Szemud, w tym:
+Mieszkańcy mają trudności ze śledzeniem bieżących wydarzeń i planów długoterminowych, co utrudnia im aktywne uczestnictwo w życiu lokalnym. 
+Dodatkowo, pojedyncze akcje protestacyjne czy interwencyjne wymagają dużego zaangażowania od zainteresowanych osób, a wiele kwestii dotyczy tylko niewielkiej części społeczności.
 
-1. **Udoskonalenie komunikacji**: Fundacja będzie działać jako pośrednik między mieszkańcami a samorządem, rządem, policją, strażą, jednostaki podlegającymi władzy, co poprawi dostęp do informacji o decyzjach i planach gminy. Dzięki temu mieszkańcy będą lepiej poinformowani o sprawach lokalnych, co zwiększy ich zaangażowanie w życie społeczności.
+Proponowane rozwiązanie skupia się na edukacji obywatelskiej a przez to zwiększenie zaangażowania mieszkańców w podjęcie aktywnego sprzecwu lub wsparcia przy zmianach przeprowadzanych przez samorząd.
+Konieczne jest też monitorowanie działań i zgłaszanie nieprawidłowości.
+Fundacja może ze swej natury być też mediatorem w przypadku pokrzywdzonych urzędników, którzy są krzywdzeni na różnych poziomach adminiastracji.
 
-2. **Edukacja obywatelska**: Fundacja oferuje programy edukacyjne dotyczące praw obywatelskich oraz funkcjonowania samorządu. Mieszkańcy będą mogli lepiej zrozumieć swoje prawa i obowiązki, co sprzyja aktywności obywatelskiej.
-
-3. **Wsparcie w działaniach społecznych**: Fundacja może organizować akcje protestacyjne lub wspierać pozytywne inicjatywy, co pozwala mieszkańcom skuteczniej działać na rzecz swoich interesów.
-
-4. **Monitoring działań władz**: Regularne informowanie o decyzjach urzędników oraz analiza ich wpływu na społeczność pozwoli na szybsze reagowanie na niekorzystne zmiany.
-
-5. **Mediacja w konfliktach**: Fundacja może pełnić rolę mediatora w sporach między mieszkańcami a urzędnikami, co przyczyni się do rozwiązywania problemów w sposób konstruktywny.
-
-6. **Wzmacnianie więzi społecznych**: Poprzez organizację i wsparcie wydarzeń kulturalnych i edukacyjnych sprzyjąc integracji mieszkańców oraz budowaniu silnej społeczności lokalnej.
-
-7. **Ochrona lokalnego dziedzictwa**: Poprzez promocję tradycji i lokalnego dziedzictwa Kaszub, by codziennie wspierać rozwój tożsamości regionalnej i kulturowej.
-
-Te działania mogą znacząco wpłynąć na jakość życia mieszkańców, zwiększając ich poczucie przynależności i aktywności w lokalnej społeczności.
-
+Obejmuje to szerzenie wiedzy o prawie, procesach samorządowych i prawach obywateli.
+Działania edukacyjne mają być skierowane do różnych grup wiekowych i społecznych, w tym do osób wykluczonych cyfrowo. 
+Planowane są również działania wspierające, takie jak ochrona prawna i pomoc dla pokrzywdzonych.
 
 
 ## Głos mieszkańców
@@ -84,21 +73,69 @@ Gdzie głos mieszkańca liczy się nie tylko co kilka lat, ale **każdego dnia**
 
 
 
+## Strategia
 
-### Fundacja Lesok - razem, lepiej ... na pokolenia
+Filary naszej Strategii 
+```
+Informacja -> Edukacja -> Działanie -> Kształtowanie
+```
 
-Fundacja Lesok jest odpowiedzią na problemy związane z przepływem informacji między samorządem a obywatelami i wynikającymi z tego powodu skutkami.
+Fundacja Lesok może przynieść szereg konkretnych korzyści dla społeczności gminy Szemud, w tym:
 
-Mieszkańcy mają trudności ze śledzeniem bieżących wydarzeń i planów długoterminowych, co utrudnia im aktywne uczestnictwo w życiu lokalnym. 
-Dodatkowo, pojedyncze akcje protestacyjne czy interwencyjne wymagają dużego zaangażowania od zainteresowanych osób, a wiele kwestii dotyczy tylko niewielkiej części społeczności.
+1. **Udoskonalenie komunikacji**: Fundacja będzie działać jako pośrednik między mieszkańcami a samorządem, rządem, policją, strażą, jednostaki podlegającymi władzy, co poprawi dostęp do informacji o decyzjach i planach gminy. Dzięki temu mieszkańcy będą lepiej poinformowani o sprawach lokalnych, co zwiększy ich zaangażowanie w życie społeczności.
 
-Proponowane rozwiązanie skupia się na edukacji obywatelskiej a przez to zwiększenie zaangażowania mieszkańców w podjęcie aktywnego sprzecwu lub wsparcia przy zmianach przeprowadzanych przez samorząd.
-Konieczne jest też monitorowanie działań i zgłaszanie nieprawidłowości.
-Fundacja może ze swej natury być też mediatorem w przypadku pokrzywdzonych urzędników, którzy są krzywdzeni na różnych poziomach adminiastracji.
+2. **Edukacja obywatelska**: Fundacja oferuje programy edukacyjne dotyczące praw obywatelskich oraz funkcjonowania samorządu. Mieszkańcy będą mogli lepiej zrozumieć swoje prawa i obowiązki, co sprzyja aktywności obywatelskiej.
 
-Obejmuje to szerzenie wiedzy o prawie, procesach samorządowych i prawach obywateli.
-Działania edukacyjne mają być skierowane do różnych grup wiekowych i społecznych, w tym do osób wykluczonych cyfrowo. 
-Planowane są również działania wspierające, takie jak ochrona prawna i pomoc dla pokrzywdzonych.
+3. **Wsparcie w działaniach społecznych**: Fundacja może organizować akcje protestacyjne lub wspierać pozytywne inicjatywy, co pozwala mieszkańcom skuteczniej działać na rzecz swoich interesów.
+
+4. **Monitoring działań władz**: Regularne informowanie o decyzjach urzędników oraz analiza ich wpływu na społeczność pozwoli na szybsze reagowanie na niekorzystne zmiany.
+
+5. **Mediacja w konfliktach**: Fundacja może pełnić rolę mediatora w sporach między mieszkańcami a urzędnikami, co przyczyni się do rozwiązywania problemów w sposób konstruktywny.
+
+6. **Wzmacnianie więzi społecznych**: Poprzez organizację i wsparcie wydarzeń kulturalnych i edukacyjnych sprzyjąc integracji mieszkańców oraz budowaniu silnej społeczności lokalnej.
+
+7. **Ochrona lokalnego dziedzictwa**: Poprzez promocję tradycji i lokalnego dziedzictwa Kaszub, by codziennie wspierać rozwój tożsamości regionalnej i kulturowej.
+
+Te działania mogą znacząco wpłynąć na jakość życia mieszkańców, zwiększając ich poczucie przynależności i aktywności w lokalnej społeczności.
+
+
+
+## Strategia
+
+
+Fundacja Lesok, działając w oparciu o powyższe filary strategiczne, dąży do osiągnięcia wymiernych korzyści dla społeczności gminy Szemud.
+Realizacja tych strategicznych działań ma na celu znaczącą poprawę jakości życia mieszkańców, wzmocnienie ich poczucia przynależności oraz zwiększenie aktywności w życiu lokalnej społeczności:
+```
+Informacja -> Edukacja -> Działanie -> Kształtowanie
+```
+
+
+### Informacja: Usprawnienie komunikacji
+Fundacja, pełniąc rolę pośrednika między mieszkańcami a instytucjami (samorząd, rząd, policja, straż, jednostki podległe), zapewni efektywny przepływ informacji o decyzjach i planach gminy, zwiększając świadomość i zaangażowanie obywatelskie.
+
+### Edukacja: Podnoszenie świadomości obywatelskiej
+Poprzez programy edukacyjne dotyczące praw obywatelskich i funkcjonowania samorządu, Fundacja przyczyni się do lepszego zrozumienia przez mieszkańców ich roli w społeczności lokalnej.
+
+### Działanie: Aktywizacja społeczna
+Organizacja akcji obywatelskich i wspieranie inicjatyw lokalnych umożliwi mieszkańcom skuteczniejsze działanie na rzecz wspólnego dobra.
+
+### Kształtowanie: Wpływ na decyzje władz
+Systematyczny monitoring i analiza działań urzędników pozwoli na szybkie reagowanie i kształtowanie korzystnych dla społeczności zmian.
+
+
+Dodatkowe obszary oddziaływania strategicznego:
+
+### Mediacja w konfliktach
+Fundacja będzie pełnić rolę bezstronnego mediatora, przyczyniając się do konstruktywnego rozwiązywania sporów.
+
+### Integracja społeczna
+Poprzez organizację wydarzeń kulturalnych i edukacyjnych, Fundacja będzie wzmacniać więzi społeczne i budować silną wspólnotę lokalną.
+
+### Ochrona dziedzictwa kulturowego
+Promocja tradycji i lokalnego dziedzictwa Kaszub wspomoże rozwój tożsamości regionalnej, stanowiąc integralną część strategii kształtowania świadomej społeczności.
+
+
+
 
 
 ## Odpowiedzi na pytania:
