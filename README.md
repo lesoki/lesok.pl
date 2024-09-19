@@ -102,26 +102,28 @@ Każdego (niezależnie od statusu) można ocenić wobec kryteriów prawdy bazuj�
 
 ## Samoświadomość
 ```
-Samoświadomość to głód prawdy podsycany hierarchią wartości udowodnionej praktyką a nie teorią
+Samoświadomość to dążenie do prawdy ukierunkowane hierarchią wartości udowodnionej praktyką, a nie teorią."
 ```
 
 Teza podkreśla różnicę między rzeczywistym doświadczeniem a abstrakcyjnymi koncepcjami, to refleksja nad naturą samoświadomości i jej związkiem z etyką oraz doświadczeniem. 
 Teoria bez praktycznego potwierdzenia i powtarzalnej (naukowej) metodyki pozwala na obnażenie fałszu, dlatego tezy muszą być określone w czasie i miejscu.
-Praktyka bierze pod uwagę stan faktyczny wszystkiego co nas otacza, w przeciwieństwie do:
+Praktyka bierze pod uwagę stan faktyczny wszystkiego co nas otacza, stoi to w kontrze do:
 
-- Dogmatu - sztywnych, z góry przyjętych przekonań
-- Spekulacji - niepewnych przypuszczeń czy domysłów
-- Konwencji - społecznie ustalonych norm
-- Intuicji - nieuświadomionych przeczuć często bazujacych na emocjach
+- **Dogmatu** - sztywnych, z góry przyjętych przekonań
+- **Spekulacji** - niepewnych przypuszczeń czy domysłów
+- **Konwencji** - społecznie ustalonych norm
+- **Intuicji** - nieuświadomionych przeczuć często bazujacych na emocjach
+
+gdzie czysto utylitarne czy koniunkturalne podejście do wartości nie jest właściwą podstawą dla samoświadomości.
 
 
-Samoświadomość jest porównywana do **głodu prawdy** - pragnienia zrozumienia rzeczywistości i samego siebie. 
+Samoświadomość jest porównywana do **głodu/dążenia do prawdy** - pragnienia zrozumienia rzeczywistości i samego siebie. 
 
 Ten głód nie jest jednak chaotyczny, lecz ukierunkowany przez **hierarchię wartości**. Oznacza to, że w procesie samopoznania kierujemy się pewnymi priorytetami i zasadami.
 
 Co istotne, ta hierarchia wartości ma być **udowodniona praktyką** - czyli wynika z rzeczywistych doświadczeń i sprawdzonych działań, a nie tylko z teoretycznych rozważań.
 
-Stoi to w kontrze podejściu **pragmatycznemu**, gdzie czysto utylitarne czy koniunkturalne podejście do wartości nie jest właściwą podstawą dla samoświadomości.
+
 
 
 
