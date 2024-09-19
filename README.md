@@ -32,7 +32,7 @@ Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność
 
 ## Korzyści dla społeczności
 
-Filary naszej działalności (Strategia i Kierunek działań)
+Filary naszej Strategii 
 ```
 Informacja -> Edukacja -> Działanie -> Ochrona
 ```
