@@ -34,7 +34,7 @@ Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność
 
 Filary naszej Strategii 
 ```
-Informacja -> Edukacja -> Działanie -> Ochrona
+Informacja -> Edukacja -> Działanie -> Kształtowanie
 ```
 
 Fundacja Lesok może przynieść szereg konkretnych korzyści dla społeczności gminy Szemud, w tym:
