@@ -158,6 +158,11 @@ Oto kilka kluczowych powodów, dlaczego warto angażować się w lokalne inicjat
 Zaangażowanie w działania takie jak te proponowane przez Fundację Lesok nie tylko wzmacnia głos mieszkańców, ale także przyczynia się do lepszego zarządzania gminą i poprawy jakości życia w społeczności.
 
 
+### Jaki ma sens tworzenie nowych kanałów w dobie zalewu informacji?
+
+
+
+
 ## Filozofia 
 
 Kluczem do uzyskania długofalowych i trwałych rezultatów jest zrozumienie rzeczywistości.
