@@ -1,6 +1,8 @@
 # [Fundacja Lesok - dla pokoleń](http://www.lesok.pl)
+Status dokumentu i projektu fundacji:
 + ostatnia aktualizacja 19.09.2024
-
++ aktualnie powstaje szkic dokumentacji, statusu i loga
++ kolejnym etapy będą wymagały kilku zainterresowanych, aby powołać wspólnie do życia fundację
 ---
 
 Drodzy mieszkańcy gminy Szemud!
