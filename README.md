@@ -75,12 +75,13 @@ Gdzie głos mieszkańca liczy się nie tylko co kilka lat, ale **każdego dnia**
 
 ## Strategia
 
-
-Fundacja Lesok, działając w oparciu o powyższe filary strategiczne, dąży do osiągnięcia wymiernych korzyści dla społeczności gminy Szemud.
-Realizacja tych strategicznych działań ma na celu znaczącą poprawę jakości życia mieszkańców, wzmocnienie ich poczucia przynależności oraz zwiększenie aktywności w życiu lokalnej społeczności:
 ```
 Informacja -> Edukacja -> Działanie -> Kształtowanie
 ```
+
+Fundacja Lesok, działając w oparciu o powyższe filary strategiczne, dąży do osiągnięcia długofalowych korzyści dla społeczności gminy Szemud.
+Realizacja tych strategicznych działań ma na celu znaczącą poprawę jakości życia mieszkańców, wzmocnienie ich poczucia przynależności oraz zwiększenie aktywności w życiu lokalnej społeczności:
+
 
 
 ### Informacja: Usprawnienie komunikacji
