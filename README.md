@@ -188,9 +188,10 @@ Praktyka bierze pod uwagę stan faktyczny wszystkiego co nas otacza, stoi to w k
 gdzie czysto utylitarne czy koniunkturalne podejście do wartości nie jest właściwą podstawą dla samoświadomości.
 
 
-Samoświadomość jest porównywana do **głodu/dążenia do prawdy** - pragnienia zrozumienia rzeczywistości i samego siebie. 
+Samoświadomość jest porównywalna do **głodu/dążenia do prawdy** - pragnienia zrozumienia rzeczywistości i samego siebie. 
 
-Ten głód nie jest jednak chaotyczny, lecz ukierunkowany przez **hierarchię wartości**. Oznacza to, że w procesie samopoznania kierujemy się pewnymi priorytetami i zasadami.
+Ten głód nie jest jednak chaotyczny, lecz ukierunkowany przez **hierarchię wartości**. 
+Oznacza to, że w procesie samopoznania kierujemy się pewnymi priorytetami i zasadami.
 
 Co istotne, ta hierarchia wartości ma być **udowodniona praktyką** - czyli wynika z rzeczywistych doświadczeń i sprawdzonych działań, a nie tylko z teoretycznych rozważań.
 
