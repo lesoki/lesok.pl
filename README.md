@@ -390,10 +390,10 @@ Ważne jest, aby wszystkie te inicjatywy były realizowane z szacunkiem dla ró�
 
 
 
-## Strategia
+## Skuteczne działanie
 
-Pro aktywne działanie przynosi lepsze skutki długofalowe dla każdej ze stron
-Władze centralna i lokalne nie cofną się jeśli nie będą napotykały klarownego sprzeciwu, najlepiej regularnego, aby zachować zdrowy dystans obywatela przed bezwzględną machiną urzędniczą.
+Pro aktywne działanie przynosi lepsze skutki długofalowe dla każdej ze stron, władze centralna i lokalne cofną się jeśli będą napotykały regularny sprzeciw.
+Jako fundacja możemy zadbać o zachowanie zdrowego dystansu obywatela przed bezwzględną machiną urzędniczą.
 
 ## Lista problemów 
 
