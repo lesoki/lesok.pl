@@ -2,7 +2,7 @@
 
 ## Status realizacji projektu:
 + ostatnia aktualizacja 20.09.2024
-+ aktualnie powstaje szkic dokumentacji, statut fundacji i logo
++ aktualnie powstaje ten zarys działalności fundacji, gra dla młodzieży, projekt Szemud2030, statut fundacji i logo
 + kolejnym etapy będą wymagały kilku zainterresowanych, aby powołać wspólnie do życia fundację
 
 
