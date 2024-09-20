@@ -10,11 +10,6 @@ napisz scenariusz gry, wprowadz gracza w realia 18 wieku, rolą gracza jest obro
 + klimatyzm - problemy z wiedzą na temat cyklów długoterminowych zmian
 
 
-Oto szkic scenariusza gry osadzonej w realiach XVIII wieku, która porusza wskazane przez Ciebie tematy:
-
-
-
-
 
 ## Edukacja poprzez zabawę
 
@@ -22,9 +17,11 @@ Aby działać proaktywnie potrzebne jest stworzenie warunków zbliżonych do rea
 
 Twoim celem jest zachowanie tradycyjnych wartości i tożsamości lokalnej społeczności, jednocześnie przeprowadzając ją przez burzliwy okres zmian. Musisz balansować między obroną tradycji a koniecznością adaptacji do nowych warunków.
 
-Oto szkic scenariusza gry osadzonej w realiach XVIII wieku, która porusza wskazane przez Ciebie tematy. Gra stawia gracza w roli szlachcica, który musi bronić tradycyjnych wartości i tożsamości swojej społeczności w obliczu różnych wyzwań.
+Oto szkic scenariusza gry osadzonej w realiach XVIII wieku, która porusza wskazane przez Ciebie tematy. 
+Gra stawia gracza w roli szlachcica, który musi bronić tradycyjnych wartości i tożsamości swojej społeczności w obliczu różnych wyzwań.
 
-Scenariusz ten próbuje odzwierciedlić realia i mentalność XVIII-wiecznej Polski, jednocześnie odnosząc się do współczesnych problemów w sposób, który mógłby być zrozumiały dla ówczesnych ludzi. Należy pamiętać, że niektóre z poruszonych tematów (np. kwestie LGBT czy zmiany klimatu) nie były wtedy postrzegane w taki sam sposób jak dziś.
+Scenariusz ten próbuje odzwierciedlić realia i mentalność XVIII-wiecznej Polski, jednocześnie odnosząc się do współczesnych problemów w sposób, który mógłby być zrozumiały dla ówczesnych ludzi. 
+Należy pamiętać, że problemy LGBT czy propaganda klimatyczna nie były wtedy znane.
 
 
 Jak gracz musisz wypracować hierarchię wartości i obserwować skutki na lokalną społeczność, którą tworzysz.
@@ -39,16 +36,19 @@ Jak gracz musisz wypracować hierarchię wartości i obserwować skutki na lokal
 
 ### Wprowadzenie
 
-Witaj w świecie XVIII-wiecznej Polski! Jesteś szlachcicem o imieniu Stanisław Prawdzic, żyjącym w burzliwym okresie schyłku Rzeczypospolitej Obojga Narodów. Twoim zadaniem jest obrona tradycyjnych wartości i tożsamości lokalnej społeczności w obliczu nadchodzących zmian i zagrożeń.
+Witaj w świecie XVIII-wiecznej Polski! Jesteś szlachcicem o imieniu Stanisław Prawdzic, żyjącym w burzliwym okresie schyłku Rzeczypospolitej Obojga Narodów. 
+Twoim zadaniem jest obrona tradycyjnych wartości i tożsamości lokalnej społeczności w obliczu nadchodzących zmian i zagrożeń.
 
 ### Tło historyczne
 
-Jest rok 1768. Rzeczpospolita Obojga Narodów przeżywa kryzys polityczny i społeczny. Rosja, Prusy i Austria coraz bardziej ingerują w wewnętrzne sprawy kraju. Tradycyjne wartości szlacheckie są zagrożone przez nowe prądy ideowe płynące z Zachodu.
+Jest rok 1768. Rzeczpospolita Obojga Narodów przeżywa kryzys polityczny i społeczny. Rosja, Prusy i Austria coraz bardziej ingerują w wewnętrzne sprawy kraju. 
+Tradycyjne wartości szlacheckie są zagrożone przez nowe prądy ideowe płynące z Zachodu.
 
 ### Twoja rola
 
 Jako Stanisław Prawdzic, musisz podejmować decyzje, które pomogą zachować tożsamość i tradycje Twojej społeczności, jednocześnie stawiając czoła różnym wyzwaniom.
-Twoim celem jest zachowanie tradycyjnych wartości i tożsamości lokalnej społeczności, jednocześnie przeprowadzając ją przez burzliwy okres zmian. Musisz balansować między obroną tradycji a koniecznością adaptacji do nowych warunków.
+Twoim celem jest zachowanie tradycyjnych wartości i tożsamości lokalnej społeczności, jednocześnie przeprowadzając ją przez burzliwy okres zmian. 
+Musisz balansować między obroną tradycji a koniecznością adaptacji do nowych warunków.
 
 
 ### Wyzwania i możliwe reakcje
