@@ -1,6 +1,6 @@
 ## Szemud2030 - Projekt dla pokoleń
 
-napisz scenariusz gry, wprowadz gracza w realia 18 wieku, rolą gracza jest obrona tożsamości tamtych pokoleń, jak powinni reagować na poniżej opisane zagrożenia? + łamanie prawa przez władzę centralną i lokalną
+Scenariusz gry, gdzie rolą gracza jest obrona tożsamości pokoleń w realiach 18 wieku, jak reagować na poniżej opisane zagrożenia? 
 
 + łamanie prawa przez władzę centralną i lokalną
 + erozja autorytetów, wykorzystywanie słabszych
