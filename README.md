@@ -1292,9 +1292,27 @@ Kluczowe jest budowanie relacji i zaufania w społeczności.
 + Bądź przygotowany na pytania i wątpliwości, ale też na entuzjazm i chęć pomocy ze strony mieszkańców.
 
 
+## Komunikacja a social media i korporacje
+
+Oto kilka powodów, dla których Facebook/Messenger/WhatsApp mogą nie być najlepszym rozwiązaniem:
+
+### 1. Blokady konta:
+- Arbitralne blokady: Facebook może zablokować konto bez wyraźnego powodu lub wyjaśnienia.
+- Trudności w odzyskaniu: Proces odzyskiwania zablokowanego konta może być długi i skomplikowany.
+- Utrata dostępu do danych: Blokada może oznaczać utratę dostępu do ważnych informacji i kontaktów.
+
+### 2. Brak kontroli:
+- Algorytmy decydują o widoczności treści: Użytkownik ma ograniczony wpływ na to, co widzi w swoim feedzie.
+- Zmiany w polityce prywatności: Facebook często modyfikuje swoje zasady, często bez wyraźnej zgody użytkownika.
+- Wykorzystanie danych: Firma zbiera i analizuje dane użytkowników w celach reklamowych.
+
+### 3. Inne problemy:
+- Uzależnienie od jednej platformy: Korzystanie z wielu usług Facebooka zwiększa zależność od jednej firmy.
+- Problemy z prywatnością: Mimo szyfrowania end-to-end w WhatsApp, metadane są nadal zbierane.
+- Rozprzestrzenianie dezinformacji: Platformy te bywają wykorzystywane do szerzenia fałszywych informacji.
+
+
 ## Narzędzia
-
-
 
 ### 1. **Platforma do komunikacji z obywatelami**
 Grupa na Signal czy Telegram mogłaby być dobrym rozwiązaniem na początkowe etapy organizacji, ponieważ te narzędzia są łatwe w obsłudze, bezpieczne, oraz wspierają szybkie przekazywanie informacji. 
