@@ -1266,6 +1266,7 @@ Aby skutecznie rozpocząć działalność Fundacji Lesok i uzyskać wsparcie prz
 
 ## Wolontariusz / Ambasador / Partner
 
+
 1. Stwórz listę kontaktową: Zbierz dane kontaktowe do wymienionych wyżej osób i grup.
 
 2. Przygotuj materiały informacyjne: Opracuj krótką, ale treściwą prezentację idei fundacji.
