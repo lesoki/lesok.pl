@@ -4,8 +4,11 @@
 + ostatnia aktualizacja 20.09.2024
 + aktualnie powstaje ten zarys działalności fundacji, gra dla młodzieży, projekt Szemud2030, statut fundacji i logo
 + kolejnym etapy będą wymagały kilku zainterresowanych, aby powołać wspólnie do życia fundację
-
-
++ [gra.lesok.pl - Szemud XVIII - Gra: Obrońca Tradycji w realiach XVIII wieku](https://gra.lesok.pl/)
++ [logo.lesok.pl](https://logo.lesok.pl/)
++ [statut.lesok.pl](https://statut.lesok.pl/)
++ [Szemud 2030](http://www.szemud2030.pl)
+  
 ## Drodzy mieszkańcy gminy Szemud!
 
 - Czy czujecie czasem, że ważne decyzje dotyczące naszej gminy przechodzą obok Was niezauważone? 
