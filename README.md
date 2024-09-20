@@ -1,8 +1,8 @@
 # [Fundacja Lesok - dla pokoleń](http://www.lesok.pl)
 
 ## Status realizacji projektu:
-+ ostatnia aktualizacja 19.09.2024
-+ aktualnie powstaje szkic dokumentacji, statusu i loga
++ ostatnia aktualizacja 20.09.2024
++ aktualnie powstaje szkic dokumentacji, statut fundacji i logo
 + kolejnym etapy będą wymagały kilku zainterresowanych, aby powołać wspólnie do życia fundację
 
 
