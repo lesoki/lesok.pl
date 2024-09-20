@@ -96,7 +96,64 @@ Twoim celem jest zachowanie tradycyjnych wartości i tożsamości lokalnej społ
 
 
 
-## 2. Gra
+
+
+## 2. Gra Strażnicy Przeszłości: Obrona Tożsamości
+
+### **Tytuł Gry**: *Strażnicy Przeszłości: Obrona Tożsamości*
+
+### **Gatunek**: Fabularna gra akcji (RPG) z elementami strategii i historii alternatywnej
+
+### **Opis fabularny**:
+Gracz zostaje przeniesiony do fikcyjnej wersji XVIII-wiecznej Europy, gdzie głównym celem jest ochrona tożsamości, wartości oraz dziedzictwa kulturalnego pokoleń. Świat ten balansuje na krawędzi chaosu, z jednej strony postęp technologiczny i naukowy, a z drugiej - erozja dawnych wartości i niszczenie społecznych więzi. Centralna i lokalna władza staje się coraz bardziej despotyczna, deprawując prawo i nadużywając swojej pozycji. Gracz, wcielając się w rolę strażnika wartości, musi reagować na zagrożenia, które pojawiają się w świecie.
+
+Gracz może wcielić się w postać młodego arystokraty, rzemieślnika, duchownego lub podróżnika, a każda z tych ról oferuje inne umiejętności i podejścia do rozwiązywania problemów. Ważne wybory fabularne wpływają na postępy w grze i świat, kształtując go na przyszłość.
+
+### **Zadanie gracza**:
+Twoim głównym celem jest ochrona tradycyjnych wartości, ale również unowocześnienie społeczeństwa w sposób, który zachowuje jego rdzeń. Musisz podejmować decyzje w obliczu zagrożeń, które podważają zasady i integralność lokalnych społeczności. Każde zagrożenie wymaga innego podejścia – niektóre problemy będą wymagały siły, inne dyplomacji, a jeszcze inne zręczności w manipulowaniu lokalną polityką.
+
+### **Zagrożenia i reakcje gracza**:
+
+#### 1. **Łamanie prawa przez władzę centralną i lokalną**
+- **Zagrożenie**: Władza centralna oraz lokalni możnowładcy nadużywają swojej pozycji, łamiąc prawa i niszcząc społeczne zaufanie. Obywatele są wykorzystywani, a prawo jest narzędziem represji.
+- **Reakcja gracza**: Gracz może tworzyć sieć tajnych sojuszy z niezadowolonymi arystokratami, wolnymi miastami i duchowieństwem, by zorganizować ruch oporu. Innym rozwiązaniem jest publiczne nagłaśnianie nadużyć w prasie podziemnej, zyskując poparcie ludu i wywierając presję na rządzących. Alternatywnie, gracz może wykorzystać wiedzę prawniczą, by odkryć kruczki prawne i tym samym powstrzymać lokalnych tyranów.
+
+#### 2. **Erozja autorytetów, wykorzystywanie słabszych**
+- **Zagrożenie**: Tradycyjne autorytety – duchowieństwo, monarchowie, szlachta – upadają z powodu korupcji, a słabsze grupy społeczne są coraz bardziej wykorzystywane.
+- **Reakcja gracza**: Gracz może odnowić instytucje, próbując przywrócić ich dawną rolę w społeczeństwie, na przykład poprzez reformy kościelne lub poprawę relacji między szlachtą a chłopstwem. Alternatywnie, gracz może zbudować alternatywne struktury władzy i zorganizować nowe autorytety, wspierając liderów w lokalnych społecznościach.
+
+#### 3. **Odrzucenie, brak poczucia przynależności, wsparcia tożsamości lokalnej**
+- **Zagrożenie**: Lokalne społeczności czują się wyalienowane przez centralizację władzy i zmiany kulturowe. Ludzie tracą poczucie przynależności do swoich tradycji i wartości.
+- **Reakcja gracza**: Gracz może organizować festiwale, święta i wydarzenia przypominające o lokalnych tradycjach, wzmacniając tożsamość kulturową. Może także działać na rzecz samorządności, by oddać władzę w ręce lokalnych społeczności. Inną opcją jest zbudowanie ośrodków edukacyjnych, które będą przypominać o wartościach przodków.
+
+#### 4. **Problemy z wiedzą na temat schorzeń i cyklu dojrzewania człowieka w kontekście identyfikacji płciowej**
+- **Zagrożenie**: W XVIII wieku wiedza medyczna i naukowa jest ograniczona. Ludzie cierpią na problemy związane z tożsamością płciową i dojrzewaniem, jednak brakuje im wsparcia i zrozumienia.
+- **Reakcja gracza**: Gracz może wspierać postęp naukowy, wspierając medyków i filozofów, którzy eksperymentują z nowymi teoriami na temat zdrowia i dojrzewania. Może także tworzyć miejsca wsparcia, gdzie osoby z problemami związanymi z tożsamością płciową znajdą opiekę, rozwijając równocześnie nowe terapie.
+
+#### 5. **Problemy z preferencji seksualnej**
+- **Zagrożenie**: Wiedza o chorych w XVIII-wiecznym społeczeństwie są zmarginalizowane.
+- **Reakcja gracza**: Gracz może działać na rzecz wprowadzenia edukacji i wsparcie medyczne dla osób chorych, tworząc tajne sieci wsparcia. Możliwe jest również poszukiwanie filozofów i uczonych, którzy mogą pozytywnie wpłynąć na chore jednostki. Działania gracza mogą przyczynić się do zmiany podejścia leczenia problemów jednostek wpływających destrukcyjnie na tożsamosć społeczności w dłuższym czasie.
+
+#### 6. **Problemy z wiedzą na temat długoterminowych zmian klimatycznych (klimatyzm)**
+- **Zagrożenie**: Społeczność nie rozumie długoterminowych zmian klimatycznych, brak wiedzy prowadzi do nieudanych prób przystosowania się do zmieniających się warunków środowiskowych.
+- **Reakcja gracza**: Gracz może współpracować z naukowcami i badaczami, aby zbadać te zmiany, ucząc lokalne społeczności o długoterminowych cyklach klimatycznych.
+Może także inicjować programy adaptacji rolnictwa, budowy infrastruktury wodnej oraz edukacji ekologicznej, przygotowując społeczeństwo na zmieniające się warunki.
+
+### **Mechanika gry**:
+- **System wyborów moralnych**: Każda decyzja ma konsekwencje, wpływając na relacje z postaciami, rozwój fabuły i kondycję społeczeństwa. Gracz może balansować między tradycją a postępem.
+- **Strategia**: Gracz zarządza swoimi zasobami, sojusznikami i wpływem politycznym. W zależności od decyzji może reformować lub walczyć z systemem władzy.
+- **Badania i rozwój**: Gracz inwestuje w rozwój technologii, wiedzy medycznej, nauki i filozofii, co pozwala na wprowadzanie innowacji w społeczeństwie.
+- **Interakcje społeczne**: Gracz rozwija relacje z innymi postaciami, które mogą stać się jego sojusznikami lub wrogami. Każda z tych postaci ma swoje cele, które mogą być sprzeczne z misją gracza.
+
+### **Podsumowanie**:
+Gra *Strażnicy Przeszłości: Obrona Tożsamości* łączy historyczny setting z uniwersalnymi problemami współczesnego świata. Gracz, poruszając się w realiach XVIII wieku, musi reagować na zagrożenia związane z łamaniem praw, erozją autorytetów, problemami tożsamościowymi, a także z nieznanym klimatem i medycyną. To połączenie fabularnej gry akcji z elementami strategii pozwala na głębokie zanurzenie się w świat moralnych dylematów, gdzie każda decyzja kształtuje przyszłość.
+
+
+
+
+
+
+## 3. Gra Szkic
 
 
 Gra powinna skupić się na interakcji gracza z otaczającym światem oraz podejmowaniu decyzji, które wpływają na losy społeczności. Gracz będzie musiał stawić czoła różnorodnym wyzwaniom, jednocześnie budując sieć wsparcia oraz wzmacniając tożsamość lokalną.
@@ -153,60 +210,6 @@ Gracz wciela się w postać młodego obrońcy lokalnej tożsamości, który żyj
 - Edukacja mieszkańców o cyklach natury i wpływie na środowisko
 - Organizowanie działań proekologicznych, takich jak sadzenie drzew czy sprzątanie okolicy.
 - Współpraca z naukowcami w celu opracowania strategii adaptacyjnych dla lokalnej społeczności.
-
-
-
-
-## 3. Strażnicy Przeszłości: Obrona Tożsamości
-
-### **Tytuł Gry**: *Strażnicy Przeszłości: Obrona Tożsamości*
-
-### **Gatunek**: Fabularna gra akcji (RPG) z elementami strategii i historii alternatywnej
-
-### **Opis fabularny**:
-Gracz zostaje przeniesiony do fikcyjnej wersji XVIII-wiecznej Europy, gdzie głównym celem jest ochrona tożsamości, wartości oraz dziedzictwa kulturalnego pokoleń. Świat ten balansuje na krawędzi chaosu, z jednej strony postęp technologiczny i naukowy, a z drugiej - erozja dawnych wartości i niszczenie społecznych więzi. Centralna i lokalna władza staje się coraz bardziej despotyczna, deprawując prawo i nadużywając swojej pozycji. Gracz, wcielając się w rolę strażnika wartości, musi reagować na zagrożenia, które pojawiają się w świecie.
-
-Gracz może wcielić się w postać młodego arystokraty, rzemieślnika, duchownego lub podróżnika, a każda z tych ról oferuje inne umiejętności i podejścia do rozwiązywania problemów. Ważne wybory fabularne wpływają na postępy w grze i świat, kształtując go na przyszłość.
-
-### **Zadanie gracza**:
-Twoim głównym celem jest ochrona tradycyjnych wartości, ale również unowocześnienie społeczeństwa w sposób, który zachowuje jego rdzeń. Musisz podejmować decyzje w obliczu zagrożeń, które podważają zasady i integralność lokalnych społeczności. Każde zagrożenie wymaga innego podejścia – niektóre problemy będą wymagały siły, inne dyplomacji, a jeszcze inne zręczności w manipulowaniu lokalną polityką.
-
-### **Zagrożenia i reakcje gracza**:
-
-#### 1. **Łamanie prawa przez władzę centralną i lokalną**
-- **Zagrożenie**: Władza centralna oraz lokalni możnowładcy nadużywają swojej pozycji, łamiąc prawa i niszcząc społeczne zaufanie. Obywatele są wykorzystywani, a prawo jest narzędziem represji.
-- **Reakcja gracza**: Gracz może tworzyć sieć tajnych sojuszy z niezadowolonymi arystokratami, wolnymi miastami i duchowieństwem, by zorganizować ruch oporu. Innym rozwiązaniem jest publiczne nagłaśnianie nadużyć w prasie podziemnej, zyskując poparcie ludu i wywierając presję na rządzących. Alternatywnie, gracz może wykorzystać wiedzę prawniczą, by odkryć kruczki prawne i tym samym powstrzymać lokalnych tyranów.
-
-#### 2. **Erozja autorytetów, wykorzystywanie słabszych**
-- **Zagrożenie**: Tradycyjne autorytety – duchowieństwo, monarchowie, szlachta – upadają z powodu korupcji, a słabsze grupy społeczne są coraz bardziej wykorzystywane.
-- **Reakcja gracza**: Gracz może odnowić instytucje, próbując przywrócić ich dawną rolę w społeczeństwie, na przykład poprzez reformy kościelne lub poprawę relacji między szlachtą a chłopstwem. Alternatywnie, gracz może zbudować alternatywne struktury władzy i zorganizować nowe autorytety, wspierając liderów w lokalnych społecznościach.
-
-#### 3. **Odrzucenie, brak poczucia przynależności, wsparcia tożsamości lokalnej**
-- **Zagrożenie**: Lokalne społeczności czują się wyalienowane przez centralizację władzy i zmiany kulturowe. Ludzie tracą poczucie przynależności do swoich tradycji i wartości.
-- **Reakcja gracza**: Gracz może organizować festiwale, święta i wydarzenia przypominające o lokalnych tradycjach, wzmacniając tożsamość kulturową. Może także działać na rzecz samorządności, by oddać władzę w ręce lokalnych społeczności. Inną opcją jest zbudowanie ośrodków edukacyjnych, które będą przypominać o wartościach przodków.
-
-#### 4. **Problemy z wiedzą na temat schorzeń i cyklu dojrzewania człowieka w kontekście identyfikacji płciowej**
-- **Zagrożenie**: W XVIII wieku wiedza medyczna i naukowa jest ograniczona. Ludzie cierpią na problemy związane z tożsamością płciową i dojrzewaniem, jednak brakuje im wsparcia i zrozumienia.
-- **Reakcja gracza**: Gracz może wspierać postęp naukowy, wspierając medyków i filozofów, którzy eksperymentują z nowymi teoriami na temat zdrowia i dojrzewania. Może także tworzyć miejsca wsparcia, gdzie osoby z problemami związanymi z tożsamością płciową znajdą opiekę, rozwijając równocześnie nowe terapie.
-
-#### 5. **Problemy z preferencji seksualnej**
-- **Zagrożenie**: Wiedza o chorych w XVIII-wiecznym społeczeństwie są zmarginalizowane.
-- **Reakcja gracza**: Gracz może działać na rzecz wprowadzenia edukacji i wsparcie medyczne dla osób chorych, tworząc tajne sieci wsparcia. Możliwe jest również poszukiwanie filozofów i uczonych, którzy mogą pozytywnie wpłynąć na chore jednostki. Działania gracza mogą przyczynić się do zmiany podejścia leczenia problemów jednostek wpływających destrukcyjnie na tożsamosć społeczności w dłuższym czasie.
-
-#### 6. **Problemy z wiedzą na temat długoterminowych zmian klimatycznych (klimatyzm)**
-- **Zagrożenie**: Społeczność nie rozumie długoterminowych zmian klimatycznych, brak wiedzy prowadzi do nieudanych prób przystosowania się do zmieniających się warunków środowiskowych.
-- **Reakcja gracza**: Gracz może współpracować z naukowcami i badaczami, aby zbadać te zmiany, ucząc lokalne społeczności o długoterminowych cyklach klimatycznych.
-Może także inicjować programy adaptacji rolnictwa, budowy infrastruktury wodnej oraz edukacji ekologicznej, przygotowując społeczeństwo na zmieniające się warunki.
-
-### **Mechanika gry**:
-- **System wyborów moralnych**: Każda decyzja ma konsekwencje, wpływając na relacje z postaciami, rozwój fabuły i kondycję społeczeństwa. Gracz może balansować między tradycją a postępem.
-- **Strategia**: Gracz zarządza swoimi zasobami, sojusznikami i wpływem politycznym. W zależności od decyzji może reformować lub walczyć z systemem władzy.
-- **Badania i rozwój**: Gracz inwestuje w rozwój technologii, wiedzy medycznej, nauki i filozofii, co pozwala na wprowadzanie innowacji w społeczeństwie.
-- **Interakcje społeczne**: Gracz rozwija relacje z innymi postaciami, które mogą stać się jego sojusznikami lub wrogami. Każda z tych postaci ma swoje cele, które mogą być sprzeczne z misją gracza.
-
-### **Podsumowanie**:
-Gra *Strażnicy Przeszłości: Obrona Tożsamości* łączy historyczny setting z uniwersalnymi problemami współczesnego świata. Gracz, poruszając się w realiach XVIII wieku, musi reagować na zagrożenia związane z łamaniem praw, erozją autorytetów, problemami tożsamościowymi, a także z nieznanym klimatem i medycyną. To połączenie fabularnej gry akcji z elementami strategii pozwala na głębokie zanurzenie się w świat moralnych dylematów, gdzie każda decyzja kształtuje przyszłość.
-
 
 
 
