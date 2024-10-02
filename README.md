@@ -28,7 +28,7 @@ Wybory odbywają się co kilka lat na wójta, radnego czy sołtysa a istotne dec
 
 ---
 
-![image](https://github.com/user-attachments/assets/3e3514ab-72ba-46ea-9681-1d6eec6c1464)
+![obraz](https://github.com/user-attachments/assets/9df9ac72-3587-476e-b235-0ddd0f2fac1b)
 
 **"Fundacja Lesok"** skupia się na ochronie tradycji i lokalnego dziedzictwa Kaszub.
 Motto **"dla pokoleń"** podkreśla długoterminową misję i odpowiedzialność, działanie na rzecz przyszłych generacji. 
